@@ -1,0 +1,346 @@
+
+0 notifications total
+
+Home
+1 1 new network update notification
+My Network
+Jobs
+Messaging
+Notifications
+
+    Advertise
+
+chris wiggins
+
+chris wiggins
+(He/Him) 1st degree connection 1st
+Associate Professor at Columbia; Chief Data Scientist at New York Times; co-founder hackNY
+
+New York, New York, United States Contact info
+
+    5,131 followers
+    500+ connections
+
+Jared Lander, Adrian Schofield, and 39 other mutual connectionsJared Lander, Adrian Schofield, and 39 other mutual connections
+
+AboutAbout
+Chris Wiggins is an associate professor of applied mathematics at Columbia University and the Chief Data Scientist at the New York Times. At Columbia he is a founding member of the Department of Systems Biology, the executive committee of the Data Science Institute (http://datascience.columbia.edu/), and the Institute's education and entrepreneurship committees. He is also an affiliate of Columbia's Department of Statistics and a founding member of Columbia's Center for Computational Biology and Bioinformatics (C2B2). He is a co-founder and co-organizer of hackNY (http://hackNY.org), a nonprofit which since 2010 has organized once a semester student hackathons and the hackNY Fellows Program, a structured summer internship at NYC startups. Prior to joining the faculty at Columbia he was a Courant Instructor at NYU (1998-2001) and earned his PhD at Princeton University (1993-1998) in theoretical physics. In 2014 he was elected Fellow of the American Physical Society and is a recipient of Columbia's Avanessians Diversity Award.Chris Wiggins is an associate professor of applied mathematics at Columbia University and the Chief Data Scientist at the New York Times. At Columbia he is a founding member of the Department of Systems Biology, the executive committee of the Data Science Institute (http://datascience.columbia.edu/), and the Institute's education and entrepreneurship committees. He is also an affiliate of Columbia's Department of Statistics and a founding member of Columbia's Center for Computational Biology and Bioinformatics (C2B2). He is a co-founder and co-organizer of hackNY (http://hackNY.org), a nonprofit which since 2010 has organized once a semester student hackathons and the hackNY Fellows Program, a structured summer internship at NYC startups. Prior to joining the faculty at Columbia he was a Courant Instructor at NYU (1998-2001) and earned his PhD at Princeton University (1993-1998) in theoretical physics. In 2014 he was elected Fellow of the American Physical Society and is a recipient of Columbia's Avanessians Diversity Award.
+FeaturedFeatured
+
+    DocumentDocument
+    Image for data science history / data science @ NYT
+    data science history / data science @ NYTdata science history / data science @ NYT
+    talk delivered 2015-07-29 at ICERM workshop on "mathematics in data science" 
+     
+    workshop: https://icerm.brown.edu/topical_workshops/tw15-6-mds/ 
+     
+    references: http://bit.ly/icermtalk delivered 2015-07-29 at ICERM workshop on "mathematics in data science" workshop: https://icerm.brown.edu/topical_workshops/tw15-6-mds/ references: http://bit.ly/icerm
+    DocumentDocument
+    Image for data science: past, present, and future
+    data science: past, present, and futuredata science: past, present, and future
+    Talk on data science, past present and future, 
+    delivered to the class of 2015 hackNY Fellows 
+    2015-06-15 
+     
+    references: 
+    http://bit.ly/datascience-linksTalk on data science, past present and future, delivered to the class of 2015 hackNY Fellows 2015-06-15 references: http://bit.ly/datascience-links
+    DocumentDocument
+    Image for Chris Wiggins: "engagement & reality"
+    Chris Wiggins: "engagement & reality"Chris Wiggins: "engagement & reality"
+    Talk on "Engagement and Reality" given at http://www.rstats.nyc/ 2015-04-24.Talk on "Engagement and Reality" given at http://www.rstats.nyc/ 2015-04-24.
+    DocumentDocument
+    Image for intro data science at NYT 2015-01-22
+    intro data science at NYT 2015-01-22intro data science at NYT 2015-01-22
+    guest lecture for columbia undergraduate audience on data science, using NYT as an example, 2015-01-22guest lecture for columbia undergraduate audience on data science, using NYT as an example, 2015-01-22
+    DocumentDocument
+    Image for data science @ the new york times: IACS@harvard talk 2014-10-31
+    data science @ the new york times: IACS@harvard talk 2014-10-31data science @ the new york times: IACS@harvard talk 2014-10-31
+    "Data Science at The New York Times" 
+    talk given to the students of IACS, Harvard 
+    2014-10-31 
+     
+    announcement: 
+    http://www.seas.harvard.edu/calendar/event/77966 
+     
+    article: 
+    http://www.thecrimson.com/article/2014/11/3/data-scientist-times-seminar/"Data Science at The New York Times" talk given to the students of IACS, Harvard 2014-10-31 announcement: http://www.seas.harvard.edu/calendar/event/77966 article: http://www.thecrimson.com/article/2014/11/3/data-scientist-times-seminar/
+
+ActivityActivity
+
+5,131 followers5,131 followers
+Loaded 3 Posts posts
+
+    chris wiggins reposted this • 2w2w
+    ❓ Should Data Scientists Ship Machine Learning Models—or Should Software Engineers Handle It? ❓ In this episode of High Signal, chris wiggins —Chief Data Scientist at The New York Times and professor at Columbia University—discusses how organizations evolve their data functions from analysis to production. Chris walks us through the stages: 📝 From PDFs and R scripts… Where data science starts—insights delivered as static reports. 🚀 To data scientists owning production pipelines… The shift toward deploying models directly into production environments. 🏗️ To dedicated ML platform teams enabling scalable deployment. Specialized teams build the infrastructure for machine learning at scale. 👉 “There’s no one right answer”—it depends on company size, maturity, and how data science interacts with engineering. Chris explains the trade-offs and how the right structure evolves over time. 🎧 The full episode dives deeper into scaling data teams, bridging the gap between data science and engineering, and: 🔮 From Prediction to Prescription “Prediction isn’t the end game. The real question is: What intervention should we make?” Chris breaks down how causal inference and reinforcement learning shape prescriptive data science, moving organizations beyond just predicting outcomes. 🎧 Listen now: • Apple: https://lnkd.in/gV7h29Eg • Spotify: https://lnkd.in/geUtFDfp • YouTube: https://lnkd.in/gFAWV7E9 • Show notes: https://lnkd.in/g2dcVcKS
+    ❓ Should Data Scientists Ship Machine Learning Models—or Should Software Engineers Handle It? ❓
+
+    In this episode of High Signal, chris wiggins —Chief Data Scientist at The New York Times and professor at Columbia University—discusses how organizations evolve their data functions from analysis to production.
+
+    Chris walks us through the stages:
+    📝 From PDFs and R scripts…
+    Where data science starts—insights delivered as static reports.
+
+    🚀 To data scientists owning production pipelines…
+    The shift toward deploying models directly into production environments.
+
+    🏗️ To dedicated ML platform teams enabling scalable deployment.
+    Specialized teams build the infrastructure for machine learning at scale.
+
+    👉 “There’s no one right answer”—it depends on company size, maturity, and how data science interacts with engineering. Chris explains the trade-offs and how the right structure evolves over time.
+
+    🎧 The full episode dives deeper into scaling data teams, bridging the gap between data science and engineering, and:
+
+    🔮 From Prediction to Prescription
+    “Prediction isn’t the end game. The real question is: What intervention should we make?”
+    Chris breaks down how causal inference and reinforcement learning shape prescriptive data science, moving organizations beyond just predicting outcomes.
+
+    🎧 Listen now:
+    • Apple: https://lnkd.in/gV7h29Eg
+    • Spotify: https://lnkd.in/geUtFDfp
+    • YouTube: https://lnkd.in/gFAWV7E9
+    • Show notes: https://lnkd.in/g2dcVcKS 
+
+chris wiggins reposted this • 3w3w
+❓ Are Prediction and Machine Learning Enough—Or Should Data Science Aim Higher ❓ In this episode of High Signal, chris wiggins —Chief Data Scientist at The New York Times, professor at Columbia University, Author, Raconteur—explores how data science is evolving beyond prediction to prescribe meaningful interventions that drive real-world impact. Key themes we covered: 🔍 From Prediction to Prescription Chris challenges the status quo: “Prediction isn’t the end game. The real question is: What intervention should we make?” Learn how causal inference and reinforcement learning are converging to answer this. 🛠️ Scaling Data Functions From proofs of concept to production systems, Chris shares the journey of building The New York Times’ world-class data science team and the principles that guided its success. 🤓 Causal Inference Meets Reinforcement Learning Chris highlights how these two fields are converging to solve prescriptive challenges, helping organizations move beyond observation and prediction to deliver real impact. 💻 The Challenges of Integration Building robust data systems isn’t just about advanced models—it’s about aligning technical innovations with organizational maturity. Chris offers advice for scaling from proof-of-concept to production systems that deliver measurable value. 📊 The AI Hierarchy of Needs Why even the most sophisticated AI tools fall short without strong data foundations, reliable pipelines, and well-tested processes. This podcast is produced by Delphina, with Duncan Gilchrist and Jeremy Hermann, and is designed to help you navigate the complex world of AI, data science, and machine learning while advancing your career. 💡 A personal note: I met Chris a decade ago through our shared interest in biophysics research at Columbia. That day he invited me to The New York Times to meet his team, offering a firsthand look at his thoughtful leadership. Since then, he’s been a tremendous supporter, a friend, and a true inspiration in the data science and AI community. 🎧 Don’t miss this conversation. Catch the full episode: • Apple: https://lnkd.in/gV7h29Eg • Spotify: https://lnkd.in/geUtFDfp • YouTube: https://lnkd.in/gFAWV7E9 • Show notes: https://lnkd.in/g2dcVcKS
+❓ Are Prediction and Machine Learning Enough—Or Should Data Science Aim Higher ❓
+
+In this episode of High Signal, chris wiggins —Chief Data Scientist at The New York Times, professor at Columbia University, Author, Raconteur—explores how data science is evolving beyond prediction to prescribe meaningful interventions that drive real-world impact.
+
+Key themes we covered:
+🔍 From Prediction to Prescription
+Chris challenges the status quo: “Prediction isn’t the end game. The real question is: What intervention should we make?” Learn how causal inference and reinforcement learning are converging to answer this.
+🛠️ Scaling Data Functions
+From proofs of concept to production systems, Chris shares the journey of building The New York Times’ world-class data science team and the principles that guided its success.
+🤓 Causal Inference Meets Reinforcement Learning
+Chris highlights how these two fields are converging to solve prescriptive challenges, helping organizations move beyond observation and prediction to deliver real impact.
+💻 The Challenges of Integration
+Building robust data systems isn’t just about advanced models—it’s about aligning technical innovations with organizational maturity. Chris offers advice for scaling from proof-of-concept to production systems that deliver measurable value.
+📊 The AI Hierarchy of Needs
+Why even the most sophisticated AI tools fall short without strong data foundations, reliable pipelines, and well-tested processes.
+
+This podcast is produced by Delphina, with Duncan Gilchrist and Jeremy Hermann, and is designed to help you navigate the complex world of AI, data science, and machine learning while advancing your career.
+
+💡 A personal note: I met Chris a decade ago through our shared interest in biophysics research at Columbia. That day he invited me to The New York Times to meet his team, offering a firsthand look at his thoughtful leadership. Since then, he’s been a tremendous supporter, a friend, and a true inspiration in the data science and AI community.
+
+
+🎧 Don’t miss this conversation. Catch the full episode:
+• Apple: https://lnkd.in/gV7h29Eg
+• Spotify: https://lnkd.in/geUtFDfp
+• YouTube: https://lnkd.in/gFAWV7E9
+• Show notes: https://lnkd.in/g2dcVcKS
+
+chris wiggins reposted this • 3w3w
+Thank you Satyen for hosting me on the "Data Radicals" podcast and for the great discussion about "How Data Happened"! ( https://lnkd.in/e2Kbk6te )
+Thank you Satyen for hosting me on the "Data Radicals" podcast and for the great discussion about "How Data Happened"! ( https://lnkd.in/e2Kbk6te )
+Satyen Sangani
+Super fun and wide ranging conversation with the incomparable chris wiggins.
+
+Show all posts
+ExperienceExperience
+
+    Columbia University logo
+    Associate ProfessorAssociate Professor
+    Columbia UniversityColumbia University Jul 2001 - Present · 23 yrs 7 mosJul 2001 to Present · 23 yrs 7 mos
+            Research: applied mathematician with a PhD in theoretical physics applying machine learning to computational biology.
+
+            Teaching: seminar in applied mathematics, introduction to biophysical modeling, dynamical systems, modeling social data, "data: past, present, and future"
+
+            Advising: Faculty advisor to 
+            - Application Development Initiative (ADI); 
+            - Columbia Data Science Society (CDSS) and 
+            - Society for Industrial and Applied Mathematics (SIAM)
+
+            Member of: 
+            - Department of Applied Physics and Applied Mathematics
+            - Department of Systems Biology
+            - Columbia Center for Computational Biology and Bioinformatics ( http://c2b2.columbia.edu); 
+            - Columbia Initiative in Systems Biology ( http://sbi.c2b2.columbia.edu/ ); 
+            - executive committee, Columbia Data Science Institute (http://datascience.columbia.edu)
+
+            Affiliated faculty, Department of Statistics
+
+            Please see Google Scholar for peer-reviewed publications 
+             ( http://scholar.google.com/citations?user=NK7srJYAAAAJ )Research: applied mathematician with a PhD in theoretical physics applying machine learning to computational biology. Teaching: seminar in applied mathematics, introduction to biophysical modeling, dynamical systems, modeling social data, "data: past, present, and future" Advising: Faculty advisor to - Application Development Initiative (ADI); - Columbia Data Science Society (CDSS) and - Society for Industrial and Applied Mathematics (SIAM) Member of: - Department of Applied Physics and Applied Mathematics - Department of Systems Biology - Columbia Center for Computational Biology and Bioinformatics ( http://c2b2.columbia.edu); - Columbia Initiative in Systems Biology ( http://sbi.c2b2.columbia.edu/ ); - executive committee, Columbia Data Science Institute (http://datascience.columbia.edu) Affiliated faculty, Department of Statistics Please see Google Scholar for peer-reviewed publications ( http://scholar.google.com/citations?user=NK7srJYAAAAJ )
+            +3
+    JOURNAL OF MACHINE LEARNING RESEARCH INC logo
+    Journal of Machine Learning Research, Action EditorsJournal of Machine Learning Research, Action Editors
+    JOURNAL OF MACHINE LEARNING RESEARCH INC · FreelanceJOURNAL OF MACHINE LEARNING RESEARCH INC · Freelance Jan 2021 - Present · 4 yrs 1 moJan 2021 to Present · 4 yrs 1 mo New York City Metropolitan AreaNew York City Metropolitan Area
+    The New York Times logo
+    Chief Data ScientistChief Data Scientist
+    The New York TimesThe New York Times Jan 2014 - Present · 11 yrs 1 moJan 2014 to Present · 11 yrs 1 mo New York CityNew York City
+            Build and lead a data science group to develop and deploy machine learning solutions to business and newsroom problemsBuild and lead a data science group to develop and deploy machine learning solutions to business and newsroom problems
+            +5
+    hackNY.org logo
+    cofoundercofounder
+    hackNY.orghackNY.org Mar 2010 - Present · 14 yrs 11 mosMar 2010 to Present · 14 yrs 11 mos
+            cofounder and copresident of hackNY.org:
+            ``Co-organized by faculty from NYU and Columbia, and with a board of advisors which includes educators, technologists, and entrepreneurs, hackNY organizes the summer Fellows program and student ‘hackathons’ during the school year in order to create and empower a community of student-technologists."cofounder and copresident of hackNY.org: ``Co-organized by faculty from NYU and Columbia, and with a board of advisors which includes educators, technologists, and entrepreneurs, hackNY organizes the summer Fellows program and student ‘hackathons’ during the school year in order to create and empower a community of student-technologists."
+    Bowery Capital logo
+    Senior AdvisorSenior Advisor
+    Bowery CapitalBowery Capital May 2013 - Present · 11 yrs 9 mosMay 2013 to Present · 11 yrs 9 mos Greater New York City AreaGreater New York City Area
+            Bowery Capital is a seed stage venture capital firm focused on investments in the business software spaceBowery Capital is a seed stage venture capital firm focused on investments in the business software space
+
+Show all 8 experiences
+EducationEducation
+
+    Princeton University logo
+    Princeton UniversityPrinceton University
+    PhD, PhysicsPhD, Physics 1993 - 19981993 - 1998
+    Columbia University logo
+    Columbia UniversityColumbia University
+    BA, PhysicsBA, Physics 1989 - 19931989 - 1993
+            Major: Physics
+
+            Minors: Math, ReligionMajor: Physics Minors: Math, Religion
+
+Licenses & certificationsLicenses & certifications
+
+    CITI Program logo
+    Human Subjects Protection Biomed with FDA and MinorsHuman Subjects Protection Biomed with FDA and Minors
+    CITI ProgramCITI Program Issued Jun 2023 · Expires Jun 2026Issued Jun 2023 · Expires Jun 2026 Credential ID 43272324Credential ID 43272324
+        Show credential
+    Stanford University logo
+    Product ManagementProduct Management
+    Stanford UniversityStanford University Issued Nov 2020Issued Nov 2020
+
+SkillsSkills
+
+    Applied MathematicsApplied Mathematics
+        Endorsed by Kristin Swanson and 3 others who are highly skilled at thisEndorsed by Kristin Swanson and 3 others who are highly skilled at this
+        Endorsed by Daeil Kim (mutual connection)Endorsed by Daeil Kim (mutual connection)
+        53 endorsements53 endorsements
+
+Machine LearningMachine Learning
+
+    Endorsed by Claudia Perlich and 8 others who are highly skilled at thisEndorsed by Claudia Perlich and 8 others who are highly skilled at this
+    Endorsed by Daeil Kim and 1 other mutual connectionEndorsed by Daeil Kim and 1 other mutual connection
+    60 endorsements60 endorsements
+
+Show all 50 skills
+RecommendationsRecommendations
+Recommend chris
+
+    Jiatao "Kaia" Wang profile picture
+    Jiatao "Kaia" WangJiatao "Kaia" Wang
+    · 2ndSecond degree connection
+    Mathematics, Science and AI InstructorMathematics, Science and AI Instructor December 27, 2017, Jiatao "Kaia" was chris’ clientDecember 27, 2017, Jiatao "Kaia" was chris’ client
+            Professor Wiggins is the most creative and forward-thinking professor I had at Columbia. Having graduated in 2006, I find his Applied Math seminar uniquely valuable in inspiring my career path. Although finance was the predominant career choice among applied math majors, He opened our minds to wide-ranging fields where modeling and machine learning could be applied. His seminar was always fun and lively. Everyone was encouraged to design and present a research project. In retrospect, this became the starting point where I developed confidence in putting models and data to practical use. Professor Wiggins’ foresight and passion for building applied math communities really helped me start off on the right foot. I’m excited that he is setting trends in data science and education. Professor Wiggins is the most creative and forward-thinking professor I had at Columbia. Having graduated in 2006, I find his Applied Math seminar uniquely valuable in inspiring my career path. Although finance was the predominant career choice among applied math majors, He opened our minds to wide-ranging fields where modeling and machine learning could be applied. His seminar was always fun and lively. Everyone was encouraged to design and present a research project. In retrospect, this became the starting point where I developed confidence in putting models and data to practical use. Professor Wiggins’ foresight and passion for building applied math communities really helped me start off on the right foot. I’m excited that he is setting trends in data science and education. 
+    James Slezak profile picture
+    James SlezakJames Slezak
+    · 2ndSecond degree connection
+    CEO @ SwayableCEO @ Swayable April 11, 2016, James worked with chris but on different teamsApril 11, 2016, James worked with chris but on different teams
+            Chris is an enormous asset for The Times: a wonderful and creative collaborator, a natural and caring leader, and a magnet for talent. As Chief Data Scientist, he rapidly built an enormously productive group of razor-sharp data scientists, mentoring and supporting them, plugging them into the company's priority problems to solve, and investing in their careers and development. Several of his team members have themselves already become case-studies for the company on the value of data science as a discipline. Although Chris has been central to setting them up for success, he unfailingly does everything he can to shine the light on them rather than himself.Chris is an enormous asset for The Times: a wonderful and creative collaborator, a natural and caring leader, and a magnet for talent. As Chief Data Scientist, he rapidly built an enormously productive group of razor-sharp data scientists, mentoring and supporting them, plugging them into the company's priority problems to solve, and investing in their careers and development. Several of his team members have themselves already become case-studies for the company on the value of data science as a discipline. Although Chris has been central to setting them up for success, he unfailingly does everything he can to shine the light on them rather than himself.
+
+Honors & awardsHonors & awards
+
+    Fellow of the American Physical SocietyFellow of the American Physical Society
+    Issued by American Physical Society · Dec 2014Issued by American Physical Society · Dec 2014
+        Associated with Columbia UniversityAssociated with Columbia University
+            "The criterion for election is exceptional contributions to the physics enterprise; e.g., outstanding physics research, important applications of physics, leadership in or service to physics, or significant contributions to physics education. Fellowship is a distinct honor signifying recognition by one's professional peers." (-- aps.org )"The criterion for election is exceptional contributions to the physics enterprise; e.g., outstanding physics research, important applications of physics, leadership in or service to physics, or significant contributions to physics education. Fellowship is a distinct honor signifying recognition by one's professional peers." (-- aps.org )
+    Avanessians Diversity AwardAvanessians Diversity Award
+    Issued by Columbia University · May 2007Issued by Columbia University · May 2007
+        Associated with Columbia UniversityAssociated with Columbia University
+            The Avanessians award, established by engineering alumnus and University Trustee, Armen Avanessians M.S. ’83, and his wife, Janette, honors faculty members who have made a significant contribution to the diversity of the School of Engineering and Applied Science.
+            The Avanessians award, established by engineering alumnus and University Trustee, Armen Avanessians M.S. ’83, and his wife, Janette, honors faculty members who have made a significant contribution to the diversity of the School of Engineering and Applied Science. 
+
+LanguagesLanguages
+
+    FrenchFrench
+    GermanGerman
+
+Show all 5 languages
+InterestsInterests
+
+    Tarika Barrett, Ph.D. profile picture
+    Tarika Barrett, Ph.D.Tarika Barrett, Ph.D.
+
+· 2ndSecond degree connection
+Chief Executive Officer at Girls Who CodeChief Executive Officer at Girls Who Code 84,829 followers84,829 followers
+
+Azeem Azhar profile picture
+Azeem AzharAzeem Azhar
+· 2ndSecond degree connection
+Making sense of the Exponential AgeMaking sense of the Exponential Age 423,130 followers423,130 followers
+
+Show all Top Voices
+More profiles for youMore profiles for you
+
+    Daniel Alabi profile picture
+    Daniel AlabiDaniel Alabi
+    · 2ndSecond degree connection
+    Incoming Assistant Professor, UIUC ECEIncoming Assistant Professor, UIUC ECE
+    Meredith Kopit Levien profile picture
+    Meredith Kopit LevienMeredith Kopit Levien
+    · 2ndSecond degree connection
+    Chief Executive Officer at The New York TimesChief Executive Officer at The New York Times
+    Adam Thomas profile picture
+    Adam ThomasAdam Thomas
+    · 2ndSecond degree connection
+    Product Leadership Specialist | Leadership Coach | Educator | Keynotes & Workshops on Product Strategy & AIProduct Leadership Specialist | Leadership Coach | Educator | Keynotes & Workshops on Product Strategy & AI
+    Zach Davis, Ph.D. profile picture
+    Zach Davis, Ph.D.Zach Davis, Ph.D.
+    · 2ndSecond degree connection
+    Data Scientist @ The New York TimesData Scientist @ The New York Times
+    Brienna Herold profile picture
+    Brienna HeroldBrienna Herold
+    · 2ndSecond degree connection
+    Data @ The New York Times, Co-Founder @ Signs of Good FoodData @ The New York Times, Co-Founder @ Signs of Good Food
+
+Show all
+Explore Premium profilesExplore Premium profiles
+
+    Evelyn Caviedes Arciniegas profile picture
+    Evelyn Caviedes ArciniegasEvelyn Caviedes Arciniegas
+    · 2ndSecond degree connection
+    Platforms Associate Engineer - Site ReliabilityPlatforms Associate Engineer - Site Reliability
+    Ariane Paguia profile picture
+    Ariane PaguiaAriane Paguia
+    · 2ndSecond degree connection
+    Senior Solutions Engineer at Riverbed Technology | Expert in Solutions Engineering and Tableau DashboardingSenior Solutions Engineer at Riverbed Technology | Expert in Solutions Engineering and Tableau Dashboarding
+    Naresh Seth profile picture
+    Naresh SethNaresh Seth
+    · 2ndSecond degree connection
+    Solution Designer at Specsavers, Azure, AWS, UiPath , TOGAF, ITIL, FinOpsSolution Designer at Specsavers, Azure, AWS, UiPath , TOGAF, ITIL, FinOps
+    Felix W. profile picture
+    Felix W.Felix W.
+    · 2ndSecond degree connection
+    Data Scientist, Banking & Wealth ManagementData Scientist, Banking & Wealth Management
+
+Try premium to stand outTry premium to stand out
+People you may knowPeople you may know
+
+From chris's schoolFrom chris's school
+
+    Ruairidh Battleday profile picture
+    Ruairidh BattledayRuairidh Battleday
+    AI Researcher and Founder at Harvard/MITAI Researcher and Founder at Harvard/MIT
+    Eric Smith profile picture
+    Eric SmithEric Smith
+    Research Scientist in Generative AI (publishing as Eric Michael Smith)Research Scientist in Generative AI (publishing as Eric Michael Smith)
+    Jamie Gainer profile picture
+    Jamie GainerJamie Gainer
+    Machine Learning Engineer at PlayStationMachine Learning Engineer at PlayStation
+    Jaan Li profile picture
+    Jaan LiJaan Li
+    Machine learning and data science for health careMachine learning and data science for health care
+    Manish Nag profile picture
+    Manish NagManish Nag
+    Data & Insights Leader, Hearst; Formerly New York Times, New York Magazine, SpotifyData & Insights Leader, Hearst; Formerly New York Times, New York Magazine, Spotify
+
+Show all
+You might likeYou might like
+
+Groups for youGroups for you
+
+    Python Developers Community (moderated) logo
+    Python Developers Community (moderated)Python Developers Community (moderated)
+    2,430,876 members2,430,876 members
+    Digital Marketing logo
+    Digital MarketingDigital Marketing
+    2,323,922 members2,323,922 members
+
+Show all
+Hugo Bowne-Anderson
+Status is online
+Page inboxes
+9 9 new notifications

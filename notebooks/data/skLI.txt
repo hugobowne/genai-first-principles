@@ -1,0 +1,390 @@
+
+0 notifications total
+
+Home
+1 1 new network update notification
+My Network
+Jobs
+Messaging
+Notifications
+
+    Advertise
+
+Stefan Krawczyk
+
+Stefan has a premium account
+Click to upgrade to Premium
+Stefan Krawczyk
+1st degree connection 1st
+CEO @ DAGWorks Inc. | Co-creator of Hamilton & Burr | Pipelines & Agents: Data, Data Science, Machine Learning, & LLMs
+
+San Francisco, California, United States Contact info
+
+    6,013 followers
+    500+ connections
+
+Sonam Gupta, PhD, Duncan Gilchrist, and 96 other mutual connectionsSonam Gupta, PhD, Duncan Gilchrist, and 96 other mutual connections
+
+AboutAbout
+With over 10 years of experience in building and leading data & ML related systems and teams, I am the co-founder and CEO of DAGWorks, a startup that helps data practitioners with a powerful and flexible framework based on Hamilton, an open source project that I co-created. I am also a Y Combinator alum, StartX alum, and a Stanford graduate with a Master of Science in Computer Science with Distinction in Research.
+
+My passion is to make others more successful with data, by bridging the gap between data science, machine learning, engineering, and business. I have expertise in data platforms, model lifecycles, featurization, and model serving systems, as well as in natural language processing, speech recognition, and spoken dialog systems. I am a proficient Python developer and a polymath engineer who can work with multiple languages and technologies. I also contribute to open source projects and advise other startups in the data space. I value good leadership, company culture, and innovation, and I strive to be a humble and effective leader who empowers and enables my team to solve challenging and interesting problems.With over 10 years of experience in building and leading data & ML related systems and teams, I am the co-founder and CEO of DAGWorks, a startup that helps data practitioners with a powerful and flexible framework based on Hamilton, an open source project that I co-created. I am also a Y Combinator alum, StartX alum, and a Stanford graduate with a Master of Science in Computer Science with Distinction in Research. My passion is to make others more successful with data, by bridging the gap between data science, machine learning, engineering, and business. I have expertise in data platforms, model lifecycles, featurization, and model serving systems, as well as in natural language processing, speech recognition, and spoken dialog systems. I am a proficient Python developer and a polymath engineer who can work with multiple languages and technologies. I also contribute to open source projects and advise other startups in the data space. I value good leadership, company culture, and innovation, and I strive to be a humble and effective leader who empowers and enables my team to solve challenging and interesting problems.
+FeaturedFeatured
+
+    PostPost
+    Something that made my day last Friday was discovering this recommendation (see image) from a user on Reddit, Inc. about hashtag#Burr 🤯.
+
+    The thread is a great read in general for those building in the LLM space. I think it hits the nail on the head with the current problems people face with the incumbent frameworks (LangChain, LlamaIndex, etc). 
+
+    It's our thesis at DAGWorks Inc. that hashtag#productionization matters, and if you don't design for it from the beginning you're going to be up 💩 creek without a paddle very soon. That's why we think both hashtag#Hamilton and hashtag#Burr offer excellent experiences here and you should start with them from the beginning! It'll save you a lot trouble down the line, and without sacrificing your development speed.
+
+    Please tag someone who is productionizing work / send them this thread -- we'd love to make them ship faster with more confidence.
+
+    Burr: https://lnkd.in/gFM5tumw
+    Hamilton: https://lnkd.in/geBKt-2k
+    Reddit thread: https://lnkd.in/giYC4cW8
+
+PostPost
+Following up from revealing that Elijah ben Izzy and I have started a company last week, I just wanted to mention three things:
+
+(1) We’re super excited to say that we got into hashtag#ycombinator ! It starts this week! We’re super pumped for the opportunity to be part of the YC network and have a lot of work ahead of us to reach our goals for demo day.
+
+(2) If you feel it's too costly in time or team size to maintain/manage your hashtag#ML hashtag#ETLs – we’d love to chat with you! Leave me a message in a comment and I’ll reach out, else feel free to sign up via dagworks.io (link in comments).
+
+(3) Getting up to this point has been six plus months in the making, and without the generosity of people’s time, I wouldn’t have been able to get things to where they are today; according to my notes I have spoken to over 115 people! So I have to say a big THANK YOU here 🙏🙏🙏. Starting a company is hard, and I’m grateful for the amazing network that I have that has given me so much opportunity, advice, and feedback. Every conversation has been an education and I’ve been trying to be incrementally better each time. So if you've chatted with me, know that I have a lot of gratitude for the time you gave me; let me know how I can help you, or help someone you know.
+
+Cheers!
+
+ActivityActivity
+
+6,013 followers6,013 followers
+Loaded 3 Posts posts
+
+    Stefan Krawczyk posted this • 1w1w
+    Happy New Year! Here's a recap of the last month and some of 2024. Thanks to the community and our contributors this year. #Hamilton + #Burr 2024 stats: > 35M+ telemetry events (10x growth), > 100K+ unique IPs (10x growth) from 1000+ companies, > 1M+ total downloads. #Hamilton December release highlights: > TypedDict support, Snowflake example #Burr December release highlights: > Anyscale's Ray executor for parallelism > Persistence, i.e. fault tolerance, for parallelism Blogs: > We have four this past month! They cover Hamilton internals, parallelism, and TDD LLM application development! Links in the newsletter! In the wild: > Burr called out by AI Agent Ops Alliance™ (AOA) > Jernej Frank's recording on the internals of Hamilton decorators > how to deploy the Hamilton UI on Snowflake , Last week of 2024 / first week of 2025, Stefan Krawczyk on LinkedIn • 4 min read
+    Happy New Year! Here's a recap of the last month and some of 2024.
+
+    Thanks to the community and our contributors this year. 
+
+    hashtag#Hamilton + hashtag#Burr 2024 stats: 
+    > 35M+ telemetry events (10x growth), 
+    > 100K+ unique IPs (10x growth) from 1000+ companies, 
+    > 1M+ total downloads.
+
+    hashtag#Hamilton December release highlights: 
+    > TypedDict support, Snowflake example
+
+    hashtag#Burr December release highlights: 
+    > Anyscale's Ray executor for parallelism
+    > Persistence, i.e. fault tolerance, for parallelism
+
+    Blogs: 
+    > We have four this past month! They cover Hamilton internals, parallelism, and TDD LLM application development! Links in the newsletter!
+
+    In the wild: 
+    > Burr called out by AI Agent Ops Alliance™ (AOA)
+    > Jernej Frank's recording on the internals of Hamilton decorators
+    > how to deploy the Hamilton UI on Snowflake
+    Last week of 2024 / first week of 2025
+    Stefan Krawczyk on LinkedIn • 4 min read
+    Stefan Krawczyk posted this • 1w1w
+    If you want to ship AI software to production, then you have to bring a systematic approach to evaluating it. After getting a bunch of #Burr user questions around this, I wrote a quick blog post on one possible pattern using #pytest - which is a very popular unit testing framework for #python. But, since LLM calls are non-deterministic you have to adjust how you use pytest. In the post I show how you can augment pytest's behavior to enable a test drive development (TDD) approach to iterating on your LLM calls + logic. Also, if you want to learn more around shipping Reliable AI software, sign-up for the course Hugo Bowne-Anderson and I are putting on next week on Maven - link in the comments., Test Driven Development (TDD) of LLM / Agent Applications with pytest, blog.dagworks.io
+    If you want to ship AI software to production, then you have to bring a systematic approach to evaluating it. 
+
+    After getting a bunch of hashtag#Burr user questions around this, I wrote a quick blog post on one possible pattern using hashtag#pytest - which is a very popular unit testing framework for hashtag#python. 
+
+    But, since LLM calls are non-deterministic you have to adjust how you use pytest. In the post I show how you can augment pytest's behavior to enable a test drive development (TDD) approach to iterating on your LLM calls + logic.
+
+    Also, if you want to learn more around shipping Reliable AI software, sign-up for the course Hugo Bowne-Anderson and I are putting on next week on Maven - link in the comments.
+    Test Driven Development (TDD) of LLM / Agent Applications with pytest
+    blog.dagworks.io
+    Stefan Krawczyk reposted this • 3w3w
+    Excited to share my latest article, co-authored with Stefan Krawczyk, about the integration of Snowflake and Hamilton! Snowflake isn’t just a data platform - with Snowflake Container Services, it’s a powerhouse for enabling observability and scaling modern data solutions. In this article, I explore how you can leverage Snowflake Container Services to bring transparency, control, and efficiency to your Python workflows. From debugging complex logic to tracking data transformations, Snowflake makes it possible! 🚀❄️ If you’re looking to enhance how you monitor and manage data pipelines, this is a practical and innovative approach worth exploring. ✨ Let’s discuss: How do you use Snowflake to boost your data workflows? What are your favorite tips for leveraging Snowflake’s capabilities? Looking forward to hearing your insights! #Snowflake #SnowflakeDataCloud #DataSuperhero #SnowflakeDataSuperhero #snowflakeaidatacloud #snowflake_advocate #DataSuperHeroes Rafal Stryjek Piotr Pietrzkiewicz Tomasz Mazurek Wojciech Brzostowski Waldemar Kot Adam Wojtkowski Łukasz Leszewski Igor Szafrański Monique Lupu Elsa Mayer, Observability of Python Code and Application Logic with Hamilton UI on Snowflake Container Services, link.medium.com
+    Excited to share my latest article, co-authored with Stefan Krawczyk, about the integration of Snowflake and Hamilton!
+
+    Snowflake isn’t just a data platform - with Snowflake Container Services, it’s a powerhouse for enabling observability and scaling modern data solutions. In this article, I explore how you can leverage Snowflake Container Services to bring transparency, control, and efficiency to your Python workflows. From debugging complex logic to tracking data transformations, Snowflake makes it possible! 🚀❄️
+
+    If you’re looking to enhance how you monitor and manage data pipelines, this is a practical and innovative approach worth exploring.
+
+    ✨ Let’s discuss:
+    How do you use Snowflake to boost your data workflows?
+    What are your favorite tips for leveraging Snowflake’s capabilities?
+    Looking forward to hearing your insights!
+    hashtag#Snowflake hashtag#SnowflakeDataCloud hashtag#DataSuperhero hashtag#SnowflakeDataSuperhero hashtag#snowflakeaidatacloud hashtag#snowflake_advocate hashtag#DataSuperHeroes
+
+    Rafal Stryjek Piotr Pietrzkiewicz Tomasz Mazurek Wojciech Brzostowski Waldemar Kot Adam Wojtkowski Łukasz Leszewski Igor Szafrański Monique Lupu Elsa Mayer
+    Observability of Python Code and Application Logic with Hamilton UI on Snowflake Container Services
+    link.medium.com
+
+Show all posts
+ExperienceExperience
+
+    DAGWorks Inc. logo
+    Chief Executive OfficerChief Executive Officer
+    DAGWorks Inc. · Full-timeDAGWorks Inc. · Full-time Oct 2022 - Present · 2 yrs 4 mosOct 2022 to Present · 2 yrs 4 mos San Francisco Bay Area · RemoteSan Francisco Bay Area · Remote
+            Enabling teams to ship AI 2x-4x faster by building OSS tooling to visualize, build, and debug your data / ML / LLM / AI pipelines & agents.
+            Hamilton & Burr: 
+             - used by over 1000 companies
+             - 1M+ combined downloads
+             - collectively over 3K github ⭐️
+             - community of 500+.
+             - core part of 5+ open source libraries
+
+            For more https://github.com/dagworks-inc/hamilton & https://github.com/dagworks-inc/burr.Enabling teams to ship AI 2x-4x faster by building OSS tooling to visualize, build, and debug your data / ML / LLM / AI pipelines & agents. Hamilton & Burr: - used by over 1000 companies - 1M+ combined downloads - collectively over 3K github ⭐️ - community of 500+. - core part of 5+ open source libraries For more https://github.com/dagworks-inc/hamilton & https://github.com/dagworks-inc/burr.
+            MLOps, Extract, Transform, Load (ETL) and +5 skills
+    Stitch Fix logo
+    Data Platform - Mgr. Model LifecycleData Platform - Mgr. Model Lifecycle
+    Stitch Fix · Full-timeStitch Fix · Full-time Jun 2016 - Jun 2022 · 6 yrs 1 moJun 2016 to Jun 2022 · 6 yrs 1 mo San FranciscoSan Francisco
+            TL;DR: Bridging the gap between Data Science/ML & Engineering.
+
+            My team & I get to set product roadmaps, build platforms, infrastructure, tooling, and services for Data Scientists to help with their model development, as well as help them plug that back into the business.
+            We want to make it super simple and easy to create, manage, and innovate in the model eco-system; so think "Centralized Featurization", "Model Artifacts", "A/B Testing", "Model Back-testing Framework" etc. Also think "how should we design this integration to plug this algorithm back into the business?", "What are some levers we could build to make it easier for Data Scientists to impact the business?"
+
+            I also believe in good slack emojis, so I spend time to contribute there when I can too.
+
+            Current/Past projects include:
+             - designing a python kafka microservice framework (see slides below)
+             - product managing, managing cross-functional partners, building, and getting organizational buy-in behind a centralized experimentation framework.
+             - enabling better experimentation knobs for styling recommendations.
+             - owning the entire hiring pipeline from sourcing, interviewing, and closing candidates for my team.
+             - conceptualizing, driving, and managing initial Algorithms wide onboarding education efforts "Algorithms Curriculum".
+             - designing APIs for algorithm integrations with the business
+             - conceptualizing, product managing, and building a DataFrame creator library for time-series modeling (see Hamilton talk below)
+             - conceptualizing, evangelizing, product managing, managing cross-functional partners, and building a framework agnostic ML Platform (see slides below)TL;DR: Bridging the gap between Data Science/ML & Engineering. My team & I get to set product roadmaps, build platforms, infrastructure, tooling, and services for Data Scientists to help with their model development, as well as help them plug that back into the business. We want to make it super simple and easy to create, manage, and innovate in the model eco-system; so think "Centralized Featurization", "Model Artifacts", "A/B Testing", "Model Back-testing Framework" etc. Also think "how should we design this integration to plug this algorithm back into the business?", "What are some levers we could build to make it easier for Data Scientists to impact the business?" I also believe in good slack emojis, so I spend time to contribute there when I can too. Current/Past projects include: - designing a python kafka microservice framework (see slides below) - product managing, managing cross-functional partners, building, and getting organizational buy-in behind a centralized experimentation framework. - enabling better experimentation knobs for styling recommendations. - owning the entire hiring pipeline from sourcing, interviewing, and closing candidates for my team. - conceptualizing, driving, and managing initial Algorithms wide onboarding education efforts "Algorithms Curriculum". - designing APIs for algorithm integrations with the business - conceptualizing, product managing, and building a DataFrame creator library for time-series modeling (see Hamilton talk below) - conceptualizing, evangelizing, product managing, managing cross-functional partners, and building a framework agnostic ML Platform (see slides below)
+            MLOps, A/B Testing and +1 skill
+            +3
+    SellHound logo
+    AdvisorAdvisor
+    SellHoundSellHound Oct 2018 - Oct 2020 · 2 yrs 1 moOct 2018 to Oct 2020 · 2 yrs 1 mo San Francisco Bay AreaSan Francisco Bay Area
+            MLOps
+    Senior Data Science EngineerSenior Data Science Engineer
+    IdibonIdibon Jul 2015 - May 2016 · 11 mosJul 2015 to May 2016 · 11 mos San Francisco Bay AreaSan Francisco Bay Area
+            As a data science engineer I get to wear many hats that bridge core engineering, data & machine learning. 
+
+            Specific accomplishments include:
+             - successfully oversaw customer project where we scaled their analysis from a few thousand tweets to over four million; had to communicate clear expectations, requirements for model improvement, and shepherding data acquisition and model predictions to meet the client's needs.
+             - engineered core ML technologies on top of Spark's Machine Learning libraries, which we extended, to deliver the ability to train models in batch and then deploy them directly to a web-server for very fast single item predictions. (See https://github.com/skrawcz & the project is called idiml)
+             - motivating and educating others on modern engineering best practices on projects that I was involved with.
+
+            Note: Idibon no longer exists.As a data science engineer I get to wear many hats that bridge core engineering, data & machine learning. Specific accomplishments include: - successfully oversaw customer project where we scaled their analysis from a few thousand tweets to over four million; had to communicate clear expectations, requirements for model improvement, and shepherding data acquisition and model predictions to meet the client's needs. - engineered core ML technologies on top of Spark's Machine Learning libraries, which we extended, to deliver the ability to train models in batch and then deploy them directly to a web-server for very fast single item predictions. (See https://github.com/skrawcz & the project is called idiml) - motivating and educating others on modern engineering best practices on projects that I was involved with. Note: Idibon no longer exists.
+            MLOps and Extract, Transform, Load (ETL)
+    Nextdoor logo
+    Senior Software EngineerSenior Software Engineer
+    Nextdoor.comNextdoor.com Dec 2012 - Jul 2015 · 2 yrs 8 mosDec 2012 to Jul 2015 · 2 yrs 8 mos San FranciscoSan Francisco
+            I have worn and continue to wear many hats at Nextdoor. Everything from product feature engineering, data-analysis & A/B testing, prototyping ML apps, to owning key technologies that provide organizational leverage, to organizing speakers & being the cultural protagonist for change; you could say that I strive to use both sides of my brain. 
+
+            Specific hats I switch between on the growth & engagement teams:
+             - product engineer
+             - data engineer
+             - data scientist
+
+            Specific accomplishments include:
+             - inventing, pitching, and leading the "R3" program. R3 stands for Reflect, Reinvent, Refine. It provides a few days where the whole company got to innovate by doing "R3". It is still run to this day (they ran one in 2021)!
+             - building libraries for structured logging & event tracking to provide hooks to capture data
+             - owning & architecting the event tracking pipeline
+             - helping & educating colleagues on how to leverage the data being captured
+             - building out a first version ETL pipeline & subsequently helping out improve & maintain our 2.0 version
+             - shepherding client side tracking through to replace mixpanel
+             - evangelizing how to A/B test & setup experiments (e.g. on the growth team & in general)
+             - owning & architecting the library that enables Nextdoor to roll out and ramp features
+             - being an open source contributor, by contributing to Apache Flume.
+             - performing data analysis to understand notification usage and platform engagement.I have worn and continue to wear many hats at Nextdoor. Everything from product feature engineering, data-analysis & A/B testing, prototyping ML apps, to owning key technologies that provide organizational leverage, to organizing speakers & being the cultural protagonist for change; you could say that I strive to use both sides of my brain. Specific hats I switch between on the growth & engagement teams: - product engineer - data engineer - data scientist Specific accomplishments include: - inventing, pitching, and leading the "R3" program. R3 stands for Reflect, Reinvent, Refine. It provides a few days where the whole company got to innovate by doing "R3". It is still run to this day (they ran one in 2021)! - building libraries for structured logging & event tracking to provide hooks to capture data - owning & architecting the event tracking pipeline - helping & educating colleagues on how to leverage the data being captured - building out a first version ETL pipeline & subsequently helping out improve & maintain our 2.0 version - shepherding client side tracking through to replace mixpanel - evangelizing how to A/B test & setup experiments (e.g. on the growth team & in general) - owning & architecting the library that enables Nextdoor to roll out and ramp features - being an open source contributor, by contributing to Apache Flume. - performing data analysis to understand notification usage and platform engagement.
+            MLOps, A/B Testing and +1 skill
+
+Show all 12 experiences
+EducationEducation
+
+    Y Combinator logo
+    Y CombinatorY Combinator
+    Jan 2023 - Apr 2023Jan 2023 - Apr 2023
+            W23.W23.
+    Stanford University logo
+    Stanford UniversityStanford University
+    Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in ResearchMaster of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research 2008 - 20102008 - 2010
+        Activities and societies: NLP Group, Stanford Masters (Swimming), One of the many TGIF coordinators for the CS department, helped out with GC@SActivities and societies: NLP Group, Stanford Masters (Swimming), One of the many TGIF coordinators for the CS department, helped out with GC@S
+            - 2nd Place Yahoo University Hack Day @ Stanford 2008
+            - awarded Degree with Distinction in Research
+            - won CS224U word sense disambiguation class competition in 2010.
+            - presented CS224N SMS Text Normalization project at the Stanford Computer Forum Poster Sessions in 2010- 2nd Place Yahoo University Hack Day @ Stanford 2008 - awarded Degree with Distinction in Research - won CS224U word sense disambiguation class competition in 2010. - presented CS224N SMS Text Normalization project at the Stanford Computer Forum Poster Sessions in 2010
+
+Show all 5 educations
+ProjectsProjects
+
+    Algorithms Tech BrandingAlgorithms Tech Branding
+    Aug 2016 - PresentAug 2016 - Present
+        Associated with Stitch FixAssociated with Stitch Fix
+        Show project
+            A self organized group managing https://multithreaded.stitchfix.com/algorithms/blog/ and branding for the Algorithms organization.A self organized group managing https://multithreaded.stitchfix.com/algorithms/blog/ and branding for the Algorithms organization.
+            Other contributorsOther contributors
+                9
+    Nextdoor Feature ConfigNextdoor Feature Config
+    Jun 2014 - PresentJun 2014 - Present
+        Associated with Nextdoor.comAssociated with Nextdoor.com
+            Designed and Implemented a library for rolling out new features at Nextdoor.
+
+            This utilized our open source zookeeper library (https://github.com/Nextdoor/ndserviceregistry) to handle storing and accessing feature configurations.Designed and Implemented a library for rolling out new features at Nextdoor. This utilized our open source zookeeper library (https://github.com/Nextdoor/ndserviceregistry) to handle storing and accessing feature configurations.
+
+Show all 11 projects
+SkillsSkills
+
+    Software Development Life Cycle (SDLC)Software Development Life Cycle (SDLC)
+        Chief Executive Officer at DAGWorks Inc.Chief Executive Officer at DAGWorks Inc.
+    Open-Source SoftwareOpen-Source Software
+        Chief Executive Officer at DAGWorks Inc.Chief Executive Officer at DAGWorks Inc.
+
+Show all 46 skills
+RecommendationsRecommendations
+Recommend Stefan
+Nothing to see for nowNothing to see for now
+Recommendations that Stefan receives will appear here.Recommendations that Stefan receives will appear here.
+PublicationsPublications
+
+    Hamilton: a modular open source declarative paradigm for high level modeling of dataflowsHamilton: a modular open source declarative paradigm for high level modeling of dataflows
+    1st International Workshop on Composable Data Management Systems, CDMS@VLDB 2022, Sydney, Australia, September 9, 2022 · Sep 9, 20221st International Workshop on Composable Data Management Systems, CDMS@VLDB 2022, Sydney, Australia, September 9, 2022 · Sep 9, 2022
+        Show publication
+            https://cdmsworkshop.github.io/2022/Proceedings/ShortPapers/Paper6\_StefanKrawczyk.pdfhttps://cdmsworkshop.github.io/2022/Proceedings/ShortPapers/Paper6\_StefanKrawczyk.pdf
+            Other authorsOther authors
+    Hamilton: enabling software engineering best practices for data transformations via generalized dataflow graphsHamilton: enabling software engineering best practices for data transformations via generalized dataflow graphs
+    1st International Workshop on Data Ecosystems co-located with 48th International Conference on Very Large Databases (VLDB 2022 · Sep 5, 20221st International Workshop on Data Ecosystems co-located with 48th International Conference on Very Large Databases (VLDB 2022 · Sep 5, 2022
+        Show publication
+            https://ceur-ws.org/Vol-3306/paper5.pdfhttps://ceur-ws.org/Vol-3306/paper5.pdf
+            Other authorsOther authors
+
+Show all 6 publications
+PatentsPatents
+
+    Belief tracking and action selection in spoken dialog systemsBelief tracking and action selection in spoken dialog systems
+    US 8676583US 8676583
+        See patent
+            An action is performed in a spoken dialog system in response to a user's spoken utterance. A policy which maps belief states of user intent to actions is retrieved or created. A belief state is determined based on the spoken utterance, and an action is selected based on the determined belief state and the policy. The action is performed, and in one embodiment, involves requesting clarification of the spoken utterance from the user. Creating a policy may involve simulating user inputs and spoken dialog system interactions, and modifying policy parameters iteratively until a policy threshold is satisfied. In one embodiment, a belief state is determined by converting the spoken utterance into text, assigning the text to one or more dialog slots associated with nodes in a probabilistic ontology tree (POT), and determining a joint probability based on probability distribution tables in the POT and on the dialog slot assignments.An action is performed in a spoken dialog system in response to a user's spoken utterance. A policy which maps belief states of user intent to actions is retrieved or created. A belief state is determined based on the spoken utterance, and an action is selected based on the determined belief state and the policy. The action is performed, and in one embodiment, involves requesting clarification of the spoken utterance from the user. Creating a policy may involve simulating user inputs and spoken dialog system interactions, and modifying policy parameters iteratively until a policy threshold is satisfied. In one embodiment, a belief state is determined by converting the spoken utterance into text, assigning the text to one or more dialog slots associated with nodes in a probabilistic ontology tree (POT), and determining a joint probability based on probability distribution tables in the POT and on the dialog slot assignments.
+            Other inventorsOther inventors
+                5
+    TEAM MEMBER RECOMMENDATION SYSTEMTEAM MEMBER RECOMMENDATION SYSTEM
+    US US 
+
+CoursesCourses
+
+    Machine LearningMachine Learning
+    CS229CS229
+        Associated with Stanford UniversityAssociated with Stanford University
+    Natural Language ProcessingNatural Language Processing
+    CS224NCS224N
+        Associated with Stanford UniversityAssociated with Stanford University
+
+Show all 4 courses
+LanguagesLanguages
+
+    EnglishEnglish
+    Native or bilingual proficiencyNative or bilingual proficiency
+    JapaneseJapanese
+    Elementary proficiencyElementary proficiency
+
+Show all 4 languages
+OrganizationsOrganizations
+
+    VUW Handball ClubVUW Handball Club
+    President, Webmaster, VUWSA Club Sports Council Representative · Jan 2005 - Dec 2006President, Webmaster, VUWSA Club Sports Council Representative · Jan 2005 - Dec 2006
+            Was a founding member and helped run the club. Was president for one year.Was a founding member and helped run the club. Was president for one year.
+    VUWSA Blues PanelVUWSA Blues Panel
+    Elected Member · Mar 2006 - Nov 2006Elected Member · Mar 2006 - Nov 2006
+            This position involved reviewing applications, debating and determining VUW sports awards for student athletes.This position involved reviewing applications, debating and determining VUW sports awards for student athletes.
+
+Show all 3 organizations
+InterestsInterests
+
+    Geoffrey Moore profile picture
+    Geoffrey MooreGeoffrey Moore
+    · 2ndSecond degree connection
+    Author, speaker, advisor, best known for Crossing the Chasm, Zone to Win and The Infinite Staircase. Board Member of nLight, WorkFusion, and Phaidra. Chairman Emeritus Chasm Group & Chasm Institute.Author, speaker, advisor, best known for Crossing the Chasm, Zone to Win and The Infinite Staircase. Board Member of nLight, WorkFusion, and Phaidra. Chairman Emeritus Chasm Group & Chasm Institute. 652,756 followers652,756 followers
+    Aurimas Griciūnas profile picture
+    Aurimas GriciūnasAurimas Griciūnas
+    · 2ndSecond degree connection
+    Founder & CEO • AI Engineer • Follow me to Learn about AI Systems • Author of SwirlAI Newsletter • Public SpeakerFounder & CEO • AI Engineer • Follow me to Learn about AI Systems • Author of SwirlAI Newsletter • Public Speaker 125,893 followers125,893 followers
+
+Show all Top Voices
+More profiles for youMore profiles for you
+
+    Willy Lulciuc profile picture
+    Willy LulciucWilly Lulciuc
+    · 2ndSecond degree connection
+    Co-founder & CEO @ oleander, Project Lead & Co-creator of Marquez, OpenLineage CommitterCo-founder & CEO @ oleander, Project Lead & Co-creator of Marquez, OpenLineage Committer
+    Chaoyu Yang profile picture
+    Chaoyu YangChaoyu Yang
+    · 2ndSecond degree connection
+    Founder & CEO of 🍱 BentoML - Build scalable AI systems with unparalleled speed and flexibilityFounder & CEO of 🍱 BentoML - Build scalable AI systems with unparalleled speed and flexibility
+    Joe Reis profile picture
+    Joe ReisJoe Reis
+    · 1stFirst degree connection
+    Author | Data Engineer and Architect | Recovering Data Scientist ™ | Global Keynote Speaker | Professor | Podcaster & Writer | Advisor & InvestorAuthor | Data Engineer and Architect | Recovering Data Scientist ™ | Global Keynote Speaker | Professor | Podcaster & Writer | Advisor & Investor
+        Message
+    Shreya Shankar profile picture
+    Shreya ShankarShreya Shankar
+    · 2ndSecond degree connection
+    PhD; interactive & intelligent data processing with LLMsPhD; interactive & intelligent data processing with LLMs
+        View profile
+    Alexandra Johnson profile picture
+    Alexandra JohnsonAlexandra Johnson
+    · 2ndSecond degree connection
+    Founder and CEO of Rubber Ducky Labs (YC W23)Founder and CEO of Rubber Ducky Labs (YC W23)
+
+Show all
+Explore Premium profilesExplore Premium profiles
+
+    Max Worrall profile picture
+    Max WorrallMax Worrall
+    · 3rdThird degree connection
+    Electrical EngineerElectrical Engineer
+        View profile
+    Felix W. profile picture
+    Felix W.Felix W.
+    · 2ndSecond degree connection
+    Data Scientist, Banking & Wealth ManagementData Scientist, Banking & Wealth Management
+    Evelyn Caviedes Arciniegas profile picture
+    Evelyn Caviedes ArciniegasEvelyn Caviedes Arciniegas
+    · 2ndSecond degree connection
+    Platforms Associate Engineer - Site ReliabilityPlatforms Associate Engineer - Site Reliability
+    Samuel Palframan profile picture
+    Samuel PalframanSamuel Palframan
+    · 2ndSecond degree connection
+    Postdoctoral Research Fellow | Data AnalystPostdoctoral Research Fellow | Data Analyst
+
+Try premium to stand outTry premium to stand out
+People you may knowPeople you may know
+
+From Stefan's schoolFrom Stefan's school
+
+    Elijah ben Izzy profile picture
+    Elijah ben IzzyElijah ben Izzy
+    Co-creator of Hamilton/Burr OS libraries, Co-founder @ DAGWorks (YC W23, StartX S23)Co-creator of Hamilton/Burr OS libraries, Co-founder @ DAGWorks (YC W23, StartX S23)
+    Minh Nguyen profile picture
+    Minh NguyenMinh Nguyen
+    Building ML SystemsBuilding ML Systems
+    Jay Nanavati profile picture
+    Jay NanavatiJay Nanavati
+    Head of Advanced NLP @ IQVIA | ex-Microsoft Research, AstraZeneca, Goldman Sachs | Oxford | UCLHead of Advanced NLP @ IQVIA | ex-Microsoft Research, AstraZeneca, Goldman Sachs | Oxford | UCL
+    Sinan Ozdemir profile picture
+    Sinan OzdemirSinan Ozdemir
+    AI & LLM Expert / Author / Check out my latest book!AI & LLM Expert / Author / Check out my latest book!
+    Naim Kosayyer profile picture
+    Naim KosayyerNaim Kosayyer
+    Selfr - YCombinator W17Selfr - YCombinator W17
+
+Show all
+You might likeYou might like
+
+Courses for youCourses for you
+
+    Image for Power BI: Dashboards for Beginners
+    Power BI: Dashboards for BeginnersPower BI: Dashboards for Beginners
+    Skills: Microsoft Power BI, Dashboards, Data VisualizationSkills: Microsoft Power BI, Dashboards, Data Visualization
+    33min33min
+    Image for Oracle HeatWave MySQL Foundations
+    Oracle HeatWave MySQL FoundationsOracle HeatWave MySQL Foundations
+    Skills: MySQL, Oracle CloudSkills: MySQL, Oracle Cloud
+    3h 43min3h 43min
+
+Show all
+Hugo Bowne-Anderson
+Status is online
+Page inboxes
+9 9 new notifications

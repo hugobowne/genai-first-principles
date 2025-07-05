@@ -1,0 +1,805 @@
+profile,model,raw_output,latency,IsValidJSON,correctness
+stefanLI.txt,openai-gpt,"{
+    ""Name"": ""Stefan Krawczyk"",
+    ""Current Role"": ""CEO @ DAGWorks Inc."",
+    ""Location"": {
+        ""City"": ""San Francisco"",
+        ""State"": ""California"",
+        ""Country"": ""United States""
+    },
+    ""Previous Roles"": [],
+    ""Education"": [],
+    ""Top Skills"": [""Data"", ""Data Science"", ""Machine Learning""]
+}",0.8624546527862549,True,
+stefanLI.txt,llama3,"Here is the extracted information in JSON format:
+```
+{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": ""San Francisco, California, United States"",
+  ""Previous Roles"": [],
+  ""Education"": [],
+  ""Top Skills"": [""Data"", ""Data Science"", ""Machine Learning"", ""LLMs""]
+}
+```",0.3934650421142578,False,
+stefanLI.txt,anthropic-claude,"{
+    ""Name"": ""Stefan Krawczyk"",
+    ""Current Role"": ""CEO @ DAGWorks Inc."",
+    ""Location"": ""San Francisco, California, United States"",
+    ""Previous Roles"": [],
+    ""Education"": [],
+    ""Top Skills"": []
+}
+
+Note: While the profile snippet provides some basic information, there are insufficient details to fully populate the ""Previous Roles"", ""Education"", and ""Top Skills"" sections. A more complete LinkedIn profile would be needed to extract those details comprehensively.",3.311978816986084,False,
+stefanLI.txt,gemini,"{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": ""San Francisco, California, United States"",
+  ""Previous Roles"": [],
+  ""Education"": [],
+  ""Top Skills"": [""Data"", ""Data Science"", ""Machine Learning"", ""LLMs"", ""Pipelines & Agents""]
+}
+",0.7266638278961182,True,
+dagworks.txt,openai-gpt,"{
+    ""Name"": ""Stefan Krawczyk"",
+    ""Current Role"": ""CEO @ DAGWorks Inc."",
+    ""Location"": ""San Francisco, California, USA"",
+    ""Previous Roles"": [],
+    ""Education"": [],
+    ""Top Skills"": []
+}",1.2593212127685547,True,
+dagworks.txt,llama3,"Here is the extracted information in JSON format:
+
+```
+{
+    ""Name"": ""Thierry Jean"",
+    ""Current Role"": ""Founding Engineer @DAGWorks"",
+    ""Location"": {
+        ""city"": ""San Francisco"",
+        ""state"": ""California"",
+        ""country"": ""US""
+    },
+    ""Previous Roles"": [],
+    ""Education"": [],
+    ""Top Skills"": []
+}
+```",0.3885807991027832,False,
+dagworks.txt,anthropic-claude,"I apologize, but the provided text appears to be a LinkedIn company page for DAGWorks Inc., not an individual's LinkedIn profile. There is no personal profile information from which I can extract the requested structured information. 
+
+To extract the JSON-formatted profile details you're looking for, I would need to see an actual individual's LinkedIn profile with their personal work history, education, skills, etc.
+
+Would you like to provide a different LinkedIn profile text for me to parse?",3.3263068199157715,False,
+dagworks.txt,gemini,"{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": ""San Francisco, California"",
+  ""Previous Roles"": [],
+  ""Education"": [],
+  ""Top Skills"": []
+}
+",0.5979340076446533,True,
+shreyaLI.txt,openai-gpt,"{
+  ""Name"": ""Shreya Shankar"",
+  ""Current Role"": ""Machine Learning Engineer @ Viaduct"",
+  ""Location"": {
+    ""City"": ""Berkeley"",
+    ""State"": ""California"",
+    ""Country"": ""United States""
+  },
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Research Intern"",
+      ""Company"": ""Google"",
+      ""Duration"": ""Sep 2017 - Apr 2019""
+    },
+    {
+      ""Title"": ""Co-Director"",
+      ""Company"": ""she++"",
+      ""Duration"": ""Sep 2015 - Jan 2018""
+    },
+    {
+      ""Title"": ""Software Engineering Intern"",
+      ""Company"": ""Facebook"",
+      ""Duration"": ""Jun 2017 - Sep 2017""
+    },
+    {
+      ""Title"": ""CS106 Section Leader/Teaching Assistant"",
+      ""Company"": ""Stanford University"",
+      ""Duration"": ""Jan 2016 - Jun 2017""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""UC Berkeley Electrical Engineering & Computer Sciences (EECS)"",
+      ""Years"": ""2021""
+    },
+    {
+      ""Degree"": ""Master's degree"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2018 - 2019""
+    }
+  ],
+  ""Top Skills"": [
+    ""Team Leadership"",
+    ""Startup Development""
+  ]
+}",2.448154926300049,True,
+shreyaLI.txt,llama3,"Here is the extracted information in JSON format:
+
+```
+{
+  ""Name"": ""Shreya Shankar"",
+  ""Current Role"": ""Machine Learning Engineer @ Viaduct"",
+  ""Location"": ""Berkeley, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Machine Learning Engineer"",
+      ""Company"": ""Viaduct"",
+      ""Duration"": ""Jun 2019 - Jan 2021""
+    },
+    {
+      ""Title"": ""Research Intern"",
+      ""Company"": ""Google"",
+      ""Duration"": ""Sep 2017 - Apr 2019""
+    },
+    {
+      ""Title"": ""Co-Director"",
+      ""Company"": ""she++"",
+      ""Duration"": ""Sep 2015 - Jan 2018""
+    },
+    {
+      ""Title"": ""Software Engineering Intern"",
+      ""Company"": ""Facebook"",
+      ""Duration"": ""Jun 2017 - Sep 2017""
+    },
+    {
+      ""Title"": ""CS106 Section Leader/Teaching Assistant"",
+      ""Company"": ""Stanford University"",
+      ""Duration"": ""Jan 2016 - Jun 2017""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""UC Berkeley Electrical Engineering & Computer Sciences (EECS)"",
+      ""Years"": ""2021""
+    },
+    {
+      ""Degree"": ""Master's degree"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2018 - 2019""
+    }
+  ],
+  ""Top Skills"": [
+    ""Team Leadership"",
+    ""Startup Development"",
+    ""Artificial Intelligence"",
+    ""Machine Learning""
+  ]
+}
+```
+
+Note: I did not include the entire LinkedIn profile, but only extracted the relevant information requested. Let me know if you need anything else!",0.9083080291748047,False,
+shreyaLI.txt,anthropic-claude,"{
+    ""Name"": ""Shreya Shankar"",
+    ""Current Role"": ""PhD Researcher @ UC Berkeley"",
+    ""Location"": {
+        ""City"": ""Berkeley"",
+        ""State"": ""California"", 
+        ""Country"": ""United States""
+    },
+    ""Previous Roles"": [
+        {
+            ""Title"": ""Machine Learning Engineer"",
+            ""Company"": ""Viaduct"",
+            ""Duration"": ""Jun 2019 - Jan 2021""
+        },
+        {
+            ""Title"": ""Research Intern"", 
+            ""Company"": ""Google"",
+            ""Duration"": ""Sep 2017 - Apr 2019""
+        },
+        {
+            ""Title"": ""Co-Director"",
+            ""Company"": ""she++"", 
+            ""Duration"": ""Sep 2015 - Jan 2018""
+        },
+        {
+            ""Title"": ""Software Engineering Intern"",
+            ""Company"": ""Facebook"",
+            ""Duration"": ""Jun 2017 - Sep 2017""
+        },
+        {
+            ""Title"": ""CS106 Section Leader/Teaching Assistant"",
+            ""Company"": ""Stanford University"", 
+            ""Duration"": ""Jan 2016 - Jun 2017""
+        }
+    ],
+    ""Education"": [
+        {
+            ""Degree"": ""Doctor of Philosophy - PhD"",
+            ""Field"": ""Computer Science"",
+            ""Institution"": ""UC Berkeley Electrical Engineering & Computer Sciences (EECS)"",
+            ""Years"": ""2021""
+        },
+        {
+            ""Degree"": ""Master's degree"",
+            ""Field"": ""Computer Science (Artificial Intelligence)"", 
+            ""Institution"": ""Stanford University"",
+            ""Years"": ""2018 - 2019""
+        }
+    ],
+    ""Top Skills"": [
+        ""Team Leadership"",
+        ""Startup Development"",
+        ""Machine Learning"",
+        ""Artificial Intelligence"",
+        ""Research""
+    ]
+}",7.297166109085083,True,
+shreyaLI.txt,gemini,"{
+  ""Name"": ""Shreya Shankar"",
+  ""Current Role"": ""PhD; interactive & intelligent data processing with LLMs"",
+  ""Location"": ""Berkeley, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Machine Learning Engineer"",
+      ""Company"": ""Viaduct"",
+      ""Duration"": ""Jun 2019 - Jan 2021""
+    },
+    {
+      ""Title"": ""Research Intern"",
+      ""Company"": ""Google"",
+      ""Duration"": ""Sep 2017 - Apr 2019""
+    },
+    {
+      ""Title"": ""Co-Director"",
+      ""Company"": ""she++"",
+      ""Duration"": ""Sep 2015 - Jan 2018""
+    },
+    {
+      ""Title"": ""Software Engineering Intern"",
+      ""Company"": ""Facebook"",
+      ""Duration"": ""Jun 2017 - Sep 2017""
+    },
+    {
+      ""Title"": ""CS106 Section Leader/Teaching Assistant"",
+      ""Company"": ""Stanford University"",
+      ""Duration"": ""Jan 2016 - Jun 2017""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy - PhD, Computer Science"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""UC Berkeley Electrical Engineering & Computer Sciences (EECS)"",
+      ""Years"": ""2021""
+    },
+    {
+      ""Degree"": ""Master's degree, Computer Science"",
+      ""Field"": ""Computer Science (Artificial Intelligence)"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2018 - 2019""
+    }
+  ],
+  ""Top Skills"": [
+    ""Team Leadership"",
+    ""Startup Development"",
+    ""Machine Learning"",
+    ""Data Processing"",
+    ""LLMs""
+  ]
+}
+",3.0825929641723633,True,
+chipLI.txt,openai-gpt,"{
+  ""Name"": ""Chip Huyen"",
+  ""Current Role"": ""Building something new @ AI x storytelling"",
+  ""Location"": {
+    ""City"": ""San Francisco"",
+    ""State"": ""California"",
+    ""Country"": ""United States""
+  },
+  ""Previous Roles"": [
+    {
+      ""Title"": ""ML Engineer & Open Source Lead"",
+      ""Company"": ""Snorkel AI"",
+      ""Duration"": ""Dec 2019 - Feb 2021""
+    },
+    {
+      ""Title"": ""VP of AI & OSS"",
+      ""Company"": ""Voltron Data"",
+      ""Duration"": ""Jan 2024 - Oct 2024""
+    },
+    {
+      ""Title"": ""Co-Founder"",
+      ""Company"": ""Claypot AI"",
+      ""Duration"": ""Nov 2021 - Jan 2024""
+    },
+    {
+      ""Title"": ""Adjunct Lecturer"",
+      ""Company"": ""Stanford University"",
+      ""Duration"": ""Jan 2021 - 2023""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master's Degree"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""Not Available""
+    },
+    {
+      ""Degree"": ""Bachelor's Degree"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""Not Available""
+    }
+  ],
+  ""Top Skills"": [
+    ""Artificial Intelligence"",
+    ""Programming""
+  ]
+}",4.7148661613464355,True,
+chipLI.txt,llama3,,0.16335391998291016,False,
+chipLI.txt,anthropic-claude,"{
+    ""Name"": ""Chip Huyen"",
+    ""Current Role"": ""VP of AI & OSS @ Voltron Data"",
+    ""Location"": ""San Francisco, California, United States"",
+    ""Previous Roles"": [
+        {
+            ""Title"": ""Co-Founder"",
+            ""Company"": ""Claypot AI"",
+            ""Duration"": ""Nov 2021 - Jan 2024""
+        },
+        {
+            ""Title"": ""Adjunct Lecturer"",
+            ""Company"": ""Stanford University"", 
+            ""Duration"": ""Jan 2021 - 2023""
+        },
+        {
+            ""Title"": ""ML Engineer & Open Source Lead"",
+            ""Company"": ""Snorkel AI"",
+            ""Duration"": ""Dec 2019 - Feb 2021""
+        }
+    ],
+    ""Education"": [
+        {
+            ""Degree"": ""Master's Degree"",
+            ""Field"": ""Computer Science"",
+            ""Institution"": ""Stanford University"",
+            ""Years"": """"
+        },
+        {
+            ""Degree"": ""Bachelor's Degree"", 
+            ""Field"": ""Computer Science"",
+            ""Institution"": ""Stanford University"",
+            ""Years"": """"
+        }
+    ],
+    ""Top Skills"": [
+        ""Artificial Intelligence"",
+        ""Programming"",
+        ""Machine Learning"",
+        ""Data Science"",
+        ""Software Engineering""
+    ]
+}",5.7126078605651855,True,
+chipLI.txt,gemini,"{
+  ""Name"": ""Chip Huyen"",
+  ""Current Role"": ""VP of AI & OSS @ Voltron Data"",
+  ""Location"": ""San Francisco, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Community Committee"",
+      ""Company"": ""MLOps Learners"",
+      ""Duration"": ""Sep 2021 - Present""
+    },
+    {
+      ""Title"": ""Co-Founder"",
+      ""Company"": ""Claypot AI"",
+      ""Duration"": ""Nov 2021 - Jan 2024""
+    },
+    {
+      ""Title"": ""Adjunct Lecturer"",
+      ""Company"": ""Stanford University"",
+      ""Duration"": ""Jan 2021 - 2023""
+    },
+    {
+      ""Title"": ""ML Engineer & Open Source Lead"",
+      ""Company"": ""Snorkel AI"",
+      ""Duration"": ""Dec 2019 - Feb 2021""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master’s Degree, Computer Science"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Bachelor's Degree, Computer Science"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": null
+    }
+  ],
+  ""Top Skills"": [
+    ""Artificial Intelligence"",
+    ""Programming"",
+    ""Machine Learning Systems Design"",
+    ""MLOps"",
+    ""AI Engineering""
+  ]
+}
+",2.7874398231506348,True,
+hbaLI.txt,openai-gpt,"{
+	""Name"": ""Hugo Bowne-Anderson"",
+	""Current Role"": ""Data and AI Scientist @ Independent"",
+	""Location"": ""Darlinghurst, New South Wales, Australia"",
+	""Previous Roles"": [
+		{
+			""Title"": ""Head of Developer Relations"",
+			""Company"": ""Outerbounds"",
+			""Duration"": ""Feb 2022 - Aug 2024""
+		},
+		{
+			""Title"": ""Head of Data Science Evangelism and Marketing"",
+			""Company"": ""Coiled"",
+			""Duration"": ""May 2020 - Oct 2021""
+		},
+		{
+			""Title"": ""Data Scientist"",
+			""Company"": ""DataCamp"",
+			""Duration"": ""Sep 2017 - May 2020""
+		}
+	],
+	""Education"": [
+		{
+			""Degree"": ""Doctor of Philosophy (PhD)"",
+			""Field"": ""Pure Mathematics"",
+			""Institution"": ""UNSW"",
+			""Years"": ""2006 - 2011""
+		},
+		{
+			""Degree"": ""Bachelor of Science (B.S.)"",
+			""Field"": ""Mathematics, English Literature"",
+			""Institution"": ""University of Sydney"",
+			""Years"": ""2001 - 2005""
+		}
+	],
+	""Top Skills"": [
+		""Artificial Intelligence (AI)"",
+		""Data Science""
+	]
+}",5.101444959640503,True,
+hbaLI.txt,llama3,,0.1112360954284668,False,
+hbaLI.txt,anthropic-claude,"{
+    ""Name"": ""Hugo Bowne-Anderson"",
+    ""Current Role"": ""Independent Data and AI Scientist @ Freelance"",
+    ""Location"": ""Darlinghurst, New South Wales, Australia"",
+    ""Previous Roles"": [
+        {
+            ""Title"": ""Head of Developer Relations"",
+            ""Company"": ""Outerbounds"",
+            ""Duration"": ""Feb 2022 - Aug 2024""
+        },
+        {
+            ""Title"": ""Head of Data Science Evangelism and Marketing"",
+            ""Company"": ""Coiled"",
+            ""Duration"": ""May 2020 - Oct 2021""
+        },
+        {
+            ""Title"": ""Data Scientist"",
+            ""Company"": ""DataCamp"",
+            ""Duration"": ""Sep 2017 - May 2020""
+        },
+        {
+            ""Title"": ""Curriculum Engineer (Python)"",
+            ""Company"": ""DataCamp"",
+            ""Duration"": ""Mar 2016 - May 2020""
+        }
+    ],
+    ""Education"": [
+        {
+            ""Degree"": ""Doctor of Philosophy (PhD)"",
+            ""Field"": ""Pure Mathematics"",
+            ""Institution"": ""UNSW"",
+            ""Years"": ""2006 - 2011""
+        },
+        {
+            ""Degree"": ""Bachelor of Science (B.S.)"",
+            ""Field"": ""Mathematics, English Literature"",
+            ""Institution"": ""University of Sydney"",
+            ""Years"": ""2001 - 2005""
+        }
+    ],
+    ""Top Skills"": [
+        ""Artificial Intelligence (AI)"",
+        ""Data Science"",
+        ""Machine Learning"",
+        ""Python"",
+        ""Data Analysis""
+    ]
+}",7.2551820278167725,True,
+hbaLI.txt,gemini,"{
+  ""Name"": ""Hugo Bowne-Anderson"",
+  ""Current Role"": ""Independent Data and AI Scientist @ Freelance"",
+  ""Location"": ""Darlinghurst, New South Wales, Australia"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Head of Developer Relations"",
+      ""Company"": ""Outerbounds"",
+      ""Duration"": ""Feb 2022 - Aug 2024""
+    },
+    {
+      ""Title"": ""Head of Data Science Evangelism and Marketing"",
+      ""Company"": ""Coiled"",
+      ""Duration"": ""May 2020 - Oct 2021""
+    },
+    {
+      ""Title"": ""Data Scientist"",
+      ""Company"": ""DataCamp"",
+      ""Duration"": ""Sep 2017 - May 2020""
+    },
+    {
+      ""Title"": ""Curriculum Engineer (Python)"",
+      ""Company"": ""DataCamp"",
+      ""Duration"": ""Mar 2016 - May 2020""
+    },
+    {
+      ""Title"": ""Postdoctoral Associate/Writer"",
+      ""Company"": ""Yale University"",
+      ""Duration"": ""2013 - Mar 2016""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy (PhD)"",
+      ""Field"": ""Pure Mathematics"",
+      ""Institution"": ""UNSW"",
+      ""Years"": ""2006 - 2011""
+    },
+    {
+      ""Degree"": ""Bachelor of Science (B.S.) (First Class Honors)"",
+      ""Field"": ""Mathematics, English Literature"",
+      ""Institution"": ""University of Sydney"",
+      ""Years"": ""2001 - 2005""
+    }
+  ],
+  ""Top Skills"": [
+    ""Artificial Intelligence (AI)"",
+    ""Data Science"",
+    ""Python"",
+    ""Machine Learning"",
+    ""Data Analysis""
+  ]
+}
+",3.1874520778656006,True,
+hamelLI.txt,openai-gpt,"{
+    ""Name"": ""Hamel Husain"",
+    ""Current Role"": ""Founder @ Parlance Labs"",
+    ""Location"": {
+        ""City"": ""United States"",
+        ""State"": """",
+        ""Country"": """"
+    },
+    ""Previous Roles"": [
+        {
+            ""Title"": ""AI Engineer"",
+            ""Company"": ""Parlance Labs"",
+            ""Duration"": ""May 2023 - Present""
+        },
+        {
+            ""Title"": ""Scout"",
+            ""Company"": ""Bain Capital"",
+            ""Duration"": ""Aug 2024 - Present""
+        },
+        {
+            ""Title"": ""Entrepreneur in Residence"",
+            ""Company"": ""fast.ai"",
+            ""Duration"": ""Aug 2022 - May 2023""
+        },
+        {
+            ""Title"": ""Core Contributor & Maintainer"",
+            ""Company"": ""fast.ai"",
+            ""Duration"": ""Sep 2019 - Aug 2022""
+        },
+        {
+            ""Title"": ""Head of ML & Data Science"",
+            ""Company"": ""Outerbounds"",
+            ""Duration"": ""Jan 2022 - Aug 2022""
+        },
+        {
+            ""Title"": ""Staff Machine Learning Engineer"",
+            ""Company"": ""GitHub"",
+            ""Duration"": ""Oct 2017 - Jan 2022""
+        }
+    ],
+    ""Education"": [
+        {
+            ""Degree"": ""Master of Science (M.S.)"",
+            ""Field"": ""Computer Science, Machine Learning"",
+            ""Institution"": ""Georgia Institute of Technology"",
+            ""Years"": """"
+        },
+        {
+            ""Degree"": ""Doctor of Law (J.D.)"",
+            ""Field"": """",
+            ""Institution"": ""University of Michigan"",
+            ""Years"": """"
+        }
+    ],
+    ""Top Skills"": [
+        ""Analytics"",
+        ""Predictive Modeling""
+    ]
+}",3.3125998973846436,True,
+hamelLI.txt,llama3,"Here is the extracted information in JSON format:
+
+```
+{
+  ""name"": ""Hamel Husain"",
+  ""currentRole"": ""Founder @ Parlance Labs | Entrepreneur in Residence, ML & Data Science"",
+  ""location"": {
+    ""city"": ""United States"",
+    ""state"": null,
+    ""country"": ""United States""
+  },
+  ""previousRoles"": [
+    {
+      ""title"": ""AI Engineer"",
+      ""company"": ""Parlance Labs"",
+      ""duration"": ""May 2023 - Present""
+    },
+    {
+      ""title"": ""Scout"",
+      ""company"": ""Bain Capital"",
+      ""duration"": ""Aug 2024 - Present""
+    },
+    {
+      ""title"": ""Entrepreneur in Residence"",
+      ""company"": ""fast.ai"",
+      ""duration"": ""Aug 2022 - May 2023""
+    },
+    {
+      ""title"": ""Head of ML & Data Science"",
+      ""company"": ""Outerbounds"",
+      ""duration"": ""Jan 2022 - Aug 2022""
+    },
+    {
+      ""title"": ""Staff Machine Learning Engineer"",
+      ""company"": ""GitHub"",
+      ""duration"": ""Oct 2017 - Jan 2022""
+    }
+  ],
+  ""education"": [
+    {
+      ""degree"": ""Master of Science (M.S.)"",
+      ""field"": ""Computer Science, Machine Learning"",
+      ""institution"": ""Georgia Institute of Technology"",
+      ""years"": null
+    },
+    {
+      ""degree"": ""Doctor of Law (J.D.)"",
+      ""field"": null,
+      ""institution"": ""University of Michigan"",
+      ""years"": null
+    }
+  ],
+  ""topSkills"": [
+    ""Analytics"",
+    ""Predictive Modeling""
+  ]
+}
+```
+
+Note that some fields are missing or empty because they were not provided in the LinkedIn profile.",1.089179277420044,False,
+hamelLI.txt,anthropic-claude,"{
+    ""Name"": ""Hamel Husain"",
+    ""Current Role"": ""Founder @ Parlance Labs"",
+    ""Location"": ""United States"",
+    ""Previous Roles"": [
+        {
+            ""Title"": ""Scout"",
+            ""Company"": ""Bain Capital"",
+            ""Duration"": ""Aug 2024 - Present""
+        },
+        {
+            ""Title"": ""Entrepreneur in Residence"",
+            ""Company"": ""fast.ai"",
+            ""Duration"": ""Aug 2022 - May 2023""
+        },
+        {
+            ""Title"": ""Head of ML & Data Science"",
+            ""Company"": ""Outerbounds"",
+            ""Duration"": ""Jan 2022 - Aug 2022""
+        },
+        {
+            ""Title"": ""Staff Machine Learning Engineer"",
+            ""Company"": ""GitHub"",
+            ""Duration"": ""Oct 2017 - Jan 2022""
+        }
+    ],
+    ""Education"": [
+        {
+            ""Degree"": ""Master of Science (M.S.)"",
+            ""Field"": ""Computer Science, Machine Learning"",
+            ""Institution"": ""Georgia Institute of Technology"",
+            ""Years"": null
+        },
+        {
+            ""Degree"": ""Doctor of Law (J.D.)"",
+            ""Field"": null,
+            ""Institution"": ""University of Michigan"",
+            ""Years"": null
+        }
+    ],
+    ""Top Skills"": [
+        ""Analytics"",
+        ""Predictive Modeling"",
+        ""Machine Learning"",
+        ""Python"",
+        ""Data Science""
+    ]
+}",5.790827035903931,True,
+hamelLI.txt,gemini,"{
+  ""Name"": ""Hamel Husain"",
+  ""Current Role"": ""AI Engineer @ Parlance Labs"",
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Scout"",
+      ""Company"": ""Bain Capital"",
+      ""Duration"": ""Aug 2024 - Present""
+    },
+    {
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Duration"": ""Aug 2022 - May 2023""
+    },
+    {
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Duration"": ""Sep 2019 - Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Duration"": ""Jan 2022 - Aug 2022""
+    },
+    {
+      ""Title"": ""Staff Machine Learning Engineer"",
+      ""Company"": ""GitHub"",
+      ""Duration"": ""Oct 2017 - Jan 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
+    }
+  ],
+  ""Top Skills"": [
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
+    ""Data Science"",
+    ""Python""
+  ]
+}
+",2.945375919342041,True,

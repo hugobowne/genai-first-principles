@@ -1,0 +1,944 @@
+profile,model,raw_output,latency,IsValidJSON,correctness
+cwLI.txt,openai-gpt,"{
+	""Name"": ""Chris Wiggins"",
+	""Current Role"": ""Associate Professor @ Columbia University; Chief Data Scientist @ The New York Times"",
+	""Location"": {
+		""City"": ""New York"",
+		""State"": ""New York"",
+		""Country"": ""United States""
+	},
+	""Previous Roles"": [],
+	""Education"": [{
+			""Degree"": ""PhD"",
+			""Field"": ""Physics"",
+			""Institution"": ""Princeton University"",
+			""Years"": ""1993 - 1998""
+		},
+		{
+			""Degree"": ""BA"",
+			""Field"": ""Physics"",
+			""Institution"": ""Columbia University"",
+			""Years"": ""1989 - 1993""
+		}
+	],
+	""Top Skills"": [
+		""Applied Mathematics"",
+		""Machine Learning""
+	]
+}",3.497220277786255,True,
+cwLI.txt,llama3,"Here is the extracted information in JSON format:
+
+```
+{
+  ""Name"": ""Chris Wiggins"",
+  ""Current Role"": ""Associate Professor at Columbia; Chief Data Scientist at New York Times; co-founder hackNY"",
+  ""Location"": ""New York, New York, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Chief Data Scientist"",
+      ""Company"": ""The New York Times"",
+      ""Duration"": ""Jan 2014 - Present · 11 yrs 1 mo""
+    },
+    {
+      ""Title"": ""Journal of Machine Learning Research, Action Editors"",
+      ""Company"": ""JOURNAL OF MACHINE LEARNING RESEARCH INC"",
+      ""Duration"": ""Jan 2021 - Present · 4 yrs 1 mo""
+    },
+    {
+      ""Title"": ""Senior Advisor"",
+      ""Company"": ""Bowery Capital"",
+      ""Duration"": ""May 2013 - Present · 11 yrs 9 mos""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""PhD"",
+      ""Field"": ""Physics"",
+      ""Institution"": ""Princeton University"",
+      ""Years"": ""1993 - 1998""
+    },
+    {
+      ""Degree"": ""BA"",
+      ""Field"": ""Physics"",
+      ""Institution"": ""Columbia University"",
+      ""Years"": ""1989 - 1993""
+    }
+  ],
+  ""Top Skills"": [
+    ""Applied Mathematics"",
+    ""Machine Learning"",
+    ""Data Science""
+  ]
+}
+```",1.952430248260498,False,
+cwLI.txt,anthropic-claude,"Here is the structured information extracted from Chris Wiggins' LinkedIn profile in JSON format:
+
+{
+  ""Name"": ""Chris Wiggins"",
+  ""Current Role"": ""Associate Professor @ Columbia University"",
+  ""Location"": {
+    ""City"": ""New York"",
+    ""State"": ""New York"", 
+    ""Country"": ""United States""
+  },
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Chief Data Scientist"",
+      ""Company"": ""The New York Times"",
+      ""Duration"": ""Jan 2014 - Present""
+    },
+    {
+      ""Title"": ""Cofounder"", 
+      ""Company"": ""hackNY.org"",
+      ""Duration"": ""Mar 2010 - Present""
+    },
+    {
+      ""Title"": ""Senior Advisor"",
+      ""Company"": ""Bowery Capital"",
+      ""Duration"": ""May 2013 - Present""  
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""PhD"",
+      ""Field"": ""Physics"",
+      ""Institution"": ""Princeton University"", 
+      ""Years"": ""1993 - 1998""
+    },
+    {
+      ""Degree"": ""BA"",
+      ""Field"": ""Physics"",
+      ""Institution"": ""Columbia University"",
+      ""Years"": ""1989 - 1993""
+    }
+  ],
+  ""Top Skills"": [
+    ""Applied Mathematics"",
+    ""Machine Learning""
+  ]
+}",16.71927762031555,False,
+cwLI.txt,gemini,"{
+  ""Name"": ""chris wiggins"",
+  ""Current Role"": ""Associate Professor @ Columbia University"",
+  ""Location"": ""New York, New York, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Journal of Machine Learning Research, Action Editors"",
+      ""Company"": ""JOURNAL OF MACHINE LEARNING RESEARCH INC"",
+      ""Duration"": ""Jan 2021 - Present""
+    },
+    {
+      ""Title"": ""Chief Data Scientist"",
+      ""Company"": ""The New York Times"",
+      ""Duration"": ""Jan 2014 - Present""
+    },
+    {
+      ""Title"": ""cofounder"",
+      ""Company"": ""hackNY.org"",
+      ""Duration"": ""Mar 2010 - Present""
+    },
+    {
+      ""Title"": ""Senior Advisor"",
+      ""Company"": ""Bowery Capital"",
+      ""Duration"": ""May 2013 - Present""
+    },
+    {
+      ""Title"": ""Courant Instructor"",
+      ""Company"": ""NYU"",
+      ""Duration"": ""1998-2001""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""PhD, Physics"",
+      ""Field"": ""Physics"",
+      ""Institution"": ""Princeton University"",
+      ""Years"": ""1993 - 1998""
+    },
+    {
+      ""Degree"": ""BA, Physics"",
+      ""Field"": ""Physics"",
+      ""Institution"": ""Columbia University"",
+      ""Years"": ""1989 - 1993""
+    }
+  ],
+  ""Top Skills"": [
+    ""Applied Mathematics"",
+    ""Machine Learning"",
+    ""Data Science"",
+    ""Computational Biology"",
+    ""Biophysics""
+  ]
+}
+",4.431741714477539,True,
+hbaLI.txt,openai-gpt,"{
+    ""Name"": ""Hugo Bowne-Anderson"",
+    ""Current Role"": ""Independent Data and AI Scientist @ Freelance"",
+    ""Location"": {
+        ""City"": ""Darlinghurst"",
+        ""State"": ""New South Wales"",
+        ""Country"": ""Australia""
+    },
+    ""Previous Roles"": [
+        {
+            ""Title"": ""Head of Developer Relations"",
+            ""Company"": ""Outerbounds"",
+            ""Duration"": ""Feb 2022 - Aug 2024""
+        },
+        {
+            ""Title"": ""Head of Data Science Evangelism and Marketing"",
+            ""Company"": ""Coiled"",
+            ""Duration"": ""May 2020 - Oct 2021""
+        },
+        {
+            ""Title"": ""Data Scientist"",
+            ""Company"": ""DataCamp"",
+            ""Duration"": ""Sep 2017 - May 2020""
+        },
+        {
+            ""Title"": ""Curriculum Engineer (Python)"",
+            ""Company"": ""DataCamp"",
+            ""Duration"": ""Mar 2016 - May 2020""
+        },
+        {
+            ""Title"": ""Postdoctoral Associate/Writer"",
+            ""Company"": ""Yale University"",
+            ""Duration"": ""2013 - Mar 2016""
+        }
+    ],
+    ""Education"": [
+        {
+            ""Degree"": ""Doctor of Philosophy (PhD)"",
+            ""Field"": ""Pure Mathematics"",
+            ""Institution"": ""UNSW"",
+            ""Years"": ""2006 - 2011""
+        },
+        {
+            ""Degree"": ""Bachelor of Science (B.S.)"",
+            ""Field"": ""Mathematics, English Literature"",
+            ""Institution"": ""University of Sydney"",
+            ""Years"": ""2001 - 2005""
+        }
+    ],
+    ""Top Skills"": [
+        ""Artificial Intelligence (AI)"",
+        ""Data Science"",
+        ""Python"",
+        ""Machine Learning"",
+        ""Statistics""
+    ]
+}",3.7240662574768066,True,
+hbaLI.txt,llama3,"Here is the extracted information in JSON format:
+
+```
+{
+  ""Name"": ""Hugo Bowne-Anderson"",
+  ""Current Role"": ""Independent Data and AI Scientist (Freelance)"",
+  ""Location"": {
+    ""City"": ""Darlinghurst"",
+    ""State"": ""New South Wales"",
+    ""Country"": ""Australia""
+  },
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Head of Developer Relations"",
+      ""Company"": ""Outerbounds"",
+      ""Duration"": ""Feb 2022 - Aug 2024""
+    },
+    {
+      ""Title"": ""Head of Marketing and Data Science Evangelism"",
+      ""Company"": ""Coiled"",
+      ""Duration"": ""May 2020 - Oct 2021""
+    },
+    {
+      ""Title"": ""Data Scientist"",
+      ""Company"": ""DataCamp"",
+      ""Duration"": ""Sep 2017 - May 2020""
+    },
+    {
+      ""Title"": ""Postdoctoral Associate/Writer"",
+      ""Company"": ""Yale University"",
+      ""Duration"": ""2013 - Mar 2016""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy (PhD)"",
+      ""Field"": ""Pure Mathematics"",
+      ""Institution"": ""UNSW"",
+      ""Years"": ""2006 - 2011""
+    },
+    {
+      ""Degree"": ""Bachelor of Science (B.S.)"",
+      ""Field"": ""Mathematics, English Literature"",
+      ""Institution"": ""University of Sydney"",
+      ""Years"": ""2001 - 2005""
+    }
+  ],
+  ""Top Skills"": [""Artificial Intelligence (AI)"", ""Data Science"", ""Python""]
+}
+```
+
+Note: The JSON format is used to represent the extracted information in a structured and machine-readable way.",1.6950035095214844,False,
+hbaLI.txt,anthropic-claude,"Here is the structured information from Hugo Bowne-Anderson's LinkedIn profile in JSON format:
+
+{
+  ""Name"": ""Hugo Bowne-Anderson"",
+  ""Current Role"": ""Independent Data and AI Scientist @ Freelance"",
+  ""Location"": ""Darlinghurst, New South Wales, Australia"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Head of Developer Relations"",
+      ""Company"": ""Outerbounds"",
+      ""Duration"": ""Feb 2022 - Aug 2024""
+    },
+    {
+      ""Title"": ""Head of Data Science Evangelism and Marketing"", 
+      ""Company"": ""Coiled"",
+      ""Duration"": ""May 2020 - Oct 2021""
+    },
+    {
+      ""Title"": ""Data Scientist"",
+      ""Company"": ""DataCamp"",
+      ""Duration"": ""Sep 2017 - May 2020""
+    },
+    {
+      ""Title"": ""Curriculum Engineer (Python)"",
+      ""Company"": ""DataCamp"",
+      ""Duration"": ""Mar 2016 - May 2020""
+    },
+    {
+      ""Title"": ""Postdoctoral Associate/Writer"",
+      ""Company"": ""Yale University"",
+      ""Duration"": ""2013 - Mar 2016""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy (PhD)"",
+      ""Field"": ""Pure Mathematics"",
+      ""Institution"": ""UNSW"",
+      ""Years"": ""2006 - 2011""
+    },
+    {
+      ""Degree"": ""Bachelor of Science (B.S.) (First Class Honors)"",
+      ""Field"": ""Mathematics, English Literature"", 
+      ""Institution"": ""University of Sydney"",
+      ""Years"": ""2001 - 2005""
+    }
+  ],
+  ""Top Skills"": [
+    ""Artificial Intelligence (AI)"",
+    ""Data Science"",
+    ""Machine Learning"",
+    ""Python (Programming Language)"",
+    ""Data Analysis""
+  ]
+}",18.891204833984375,False,
+hbaLI.txt,gemini,"{
+  ""Name"": ""Hugo Bowne-Anderson"",
+  ""Current Role"": ""Independent Data and AI Scientist @ Freelance"",
+  ""Location"": ""Darlinghurst, New South Wales, Australia"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Head of Developer Relations"",
+      ""Company"": ""Outerbounds"",
+      ""Duration"": ""Feb 2022 - Aug 2024""
+    },
+    {
+      ""Title"": ""Head of Data Science Evangelism and Marketing"",
+      ""Company"": ""Coiled"",
+      ""Duration"": ""May 2020 - Oct 2021""
+    },
+    {
+      ""Title"": ""Data Scientist"",
+      ""Company"": ""DataCamp"",
+      ""Duration"": ""Sep 2017 - May 2020""
+    },
+    {
+      ""Title"": ""Curriculum Engineer (Python)"",
+      ""Company"": ""DataCamp"",
+      ""Duration"": ""Mar 2016 - May 2020""
+    },
+    {
+      ""Title"": ""Postdoctoral Associate/Writer"",
+      ""Company"": ""Yale University"",
+      ""Duration"": ""2013 - Mar 2016""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy (PhD)"",
+      ""Field"": ""Pure Mathematics"",
+      ""Institution"": ""UNSW"",
+      ""Years"": ""2006 - 2011""
+    },
+    {
+      ""Degree"": ""Bachelor of Science (B.S.) (First Class Honors)"",
+      ""Field"": ""Mathematics, English Literature"",
+      ""Institution"": ""University of Sydney"",
+      ""Years"": ""2001 - 2005""
+    }
+  ],
+  ""Top Skills"": [
+    ""Artificial Intelligence (AI)"",
+    ""Data Science"",
+    ""Python"",
+    ""Machine Learning"",
+    ""Data Analysis""
+  ]
+}
+",3.7593705654144287,True,
+hhLI.txt,openai-gpt,"{
+    ""Name"": ""Hamel Husain"",
+    ""Current Role"": ""Founder @ Parlance Labs"",
+    ""Location"": {
+        ""City"": ""United States"",
+        ""State"": ""N/A"",
+        ""Country"": ""United States""
+    },
+    ""Previous Roles"": [
+        {
+            ""Title"": ""Independent Consultant"",
+            ""Company"": ""Parlance Labs"",
+            ""Duration"": ""May 2023 - Present""
+        },
+        {
+            ""Title"": ""AI R&D"",
+            ""Company"": ""AnswerAI"",
+            ""Duration"": ""Oct 2024 - Present""
+        },
+        {
+            ""Title"": ""Scout"",
+            ""Company"": ""Bain Capital"",
+            ""Duration"": ""Aug 2024 - Present""
+        },
+        {
+            ""Title"": ""Entrepreneur in Residence"",
+            ""Company"": ""fast.ai"",
+            ""Duration"": ""Aug 2022 - May 2023""
+        },
+        {
+            ""Title"": ""Core Contributor & Maintainer"",
+            ""Company"": ""fast.ai"",
+            ""Duration"": ""Sep 2019 - Aug 2022""
+        },
+        {
+            ""Title"": ""Head of ML & Data Science"",
+            ""Company"": ""Outerbounds"",
+            ""Duration"": ""Jan 2022 - Aug 2022""
+        }
+    ],
+    ""Education"": [
+        {
+            ""Degree"": ""Master of Science (M.S.)"",
+            ""Field"": ""Computer Science, Machine Learning"",
+            ""Institution"": ""Georgia Institute of Technology"",
+            ""Years"": ""N/A""
+        },
+        {
+            ""Degree"": ""Doctor of Law (J.D.)"",
+            ""Field"": ""N/A"",
+            ""Institution"": ""University of Michigan"",
+            ""Years"": ""N/A""
+        }
+    ],
+    ""Top Skills"": [
+        ""Analytics"",
+        ""Predictive Modeling""
+    ]
+}",5.406695365905762,True,
+hhLI.txt,llama3,"Here is the extracted information in JSON format:
+
+```
+{
+  ""Name"": ""Hamel Husain"",
+  ""Current Role"": ""Founder @ Parlance Labs | AI, ML & Data Science"",
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Independent Consultant"",
+      ""Company"": ""Parlance Labs"",
+      ""Duration"": ""May 2023 - Present""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Duration"": ""Jan 2022 - Aug 2022""
+    },
+    {
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Duration"": ""Aug 2022 - May 2023""
+    }
+    // ...
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.)"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": ""Not specified""
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.)"",
+      ""Field"": ""Not specified"",
+      ""Institution"": ""University of Michigan"",
+      ""Years"": ""Not specified""
+    }
+  ],
+  ""Top Skills"": [
+    ""Analytics"",
+    ""Predictive Modeling""
+    // ...
+  ]
+}
+```
+
+Note that I've converted the date ranges to a standardized format (e.g., ""May 2023 - Present"") and removed any redundant or unclear information. Let me know if you'd like me to make any further adjustments!",1.1878092288970947,False,
+hhLI.txt,anthropic-claude,"{
+  ""Name"": ""Hamel Husain"",
+  ""Current Role"": ""Founder @ Parlance Labs"",
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Independent Consultant"",
+      ""Company"": ""Parlance Labs"",
+      ""Duration"": ""May 2023 - Present""
+    },
+    {
+      ""Title"": ""R&D"",
+      ""Company"": ""AnswerAI"",
+      ""Duration"": ""Oct 2024 - Present""
+    },
+    {
+      ""Title"": ""Scout"",
+      ""Company"": ""Bain Capital"",
+      ""Duration"": ""Aug 2024 - Present""
+    },
+    {
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Duration"": ""Aug 2022 - May 2023""
+    },
+    {
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Duration"": ""Sep 2019 - Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Duration"": ""Jan 2022 - Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.)"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": """"
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.)"",
+      ""Field"": """",
+      ""Institution"": ""University of Michigan"",
+      ""Years"": """"
+    }
+  ],
+  ""Top Skills"": [
+    ""Analytics"",
+    ""Predictive Modeling""
+  ]
+}",18.820536375045776,True,
+hhLI.txt,gemini,"{
+  ""Name"": ""Hamel Husain"",
+  ""Current Role"": ""Founder @ Parlance Labs"",
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Independent Consultant"",
+      ""Company"": ""Parlance Labs"",
+      ""Duration"": ""May 2023 - Present""
+    },
+    {
+      ""Title"": ""R&D"",
+      ""Company"": ""AnswerAI"",
+      ""Duration"": ""Oct 2024 - Present""
+    },
+    {
+      ""Title"": ""Scout"",
+      ""Company"": ""Bain Capital"",
+      ""Duration"": ""Aug 2024 - Present""
+    },
+    {
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Duration"": ""Aug 2022 - May 2023""
+    },
+    {
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Duration"": ""Sep 2019 - Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Duration"": ""Jan 2022 - Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
+    }
+  ],
+  ""Top Skills"": [
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
+    ""Data Science"",
+    ""AI""
+  ]
+}
+",3.8930647373199463,True,
+skLI.txt,openai-gpt,"{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": {
+    ""City"": ""San Francisco"",
+    ""State"": ""California"",
+    ""Country"": ""United States""
+  },
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
+      ""Company"": ""Stitch Fix"",
+      ""Duration"": ""Jun 2016 - Jun 2022""
+    },
+    {
+      ""Title"": ""Advisor"",
+      ""Company"": ""SellHound"",
+      ""Duration"": ""Oct 2018 - Oct 2020""
+    },
+    {
+      ""Title"": ""Senior Data Science Engineer"",
+      ""Company"": ""Idibon"",
+      ""Duration"": ""Jul 2015 - May 2016""
+    },
+    {
+      ""Title"": ""Senior Software Engineer"",
+      ""Company"": ""Nextdoor.com"",
+      ""Duration"": ""Dec 2012 - Jul 2015""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science"",
+      ""Field"": ""Computer Science - specializing in Artificial Intelligence"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2008 - 2010""
+    }
+  ],
+  ""Top Skills"": [
+    ""Software Development Life Cycle (SDLC)"",
+    ""Open-Source Software"",
+    ""MLOps"",
+    ""A/B Testing"",
+    ""Extract, Transform, Load (ETL)""
+  ]
+}",3.274660587310791,True,
+skLI.txt,llama3,"Here is the extracted information in JSON format:
+
+```json
+{
+  ""Name"": ""Stefan Krawczyk"",
+  ""CurrentRole"": ""Chief Executive Officer @ DAGWorks Inc."",
+  ""Location"": ""San Francisco, California, United States"",
+  ""PreviousRoles"": [
+    {
+      ""Title"": ""Data Platform - Mgr. Model Lifecycle @ Stitch Fix"",
+      ""Company"": ""Stitch Fix"",
+      ""Duration"": ""Jun 2016 - Jun 2022""
+    },
+    {
+      ""Title"": ""Advisor @ SellHound"",
+      ""Company"": ""SellHound"",
+      ""Duration"": ""Oct 2018",1.5637953281402588,False,
+skLI.txt,anthropic-claude,"Here is the structured information extracted from Stefan Krawczyk's LinkedIn profile in JSON format:
+
+{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": {
+    ""City"": ""San Francisco"",
+    ""State"": ""California"", 
+    ""Country"": ""United States""
+  },
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
+      ""Company"": ""Stitch Fix"",
+      ""Duration"": ""Jun 2016 - Jun 2022""
+    },
+    {
+      ""Title"": ""Advisor"",
+      ""Company"": ""SellHound"",
+      ""Duration"": ""Oct 2018 - Oct 2020""  
+    },
+    {
+      ""Title"": ""Senior Data Science Engineer"",
+      ""Company"": ""Idibon"",
+      ""Duration"": ""Jul 2015 - May 2016""
+    },
+    {
+      ""Title"": ""Senior Software Engineer"",
+      ""Company"": ""Nextdoor.com"",
+      ""Duration"": ""Dec 2012 - Jul 2015""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science"",
+      ""Field"": ""Computer Science - specializing in Artificial Intelligence - with Distinction in Research"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2008 - 2010""
+    }
+  ],
+  ""Top Skills"": [
+    ""MLOps"",
+    ""Extract, Transform, Load (ETL)"",
+    ""A/B Testing"",
+    ""Open-Source Software"",
+    ""Software Development Life Cycle (SDLC)""
+  ]
+}",18.967260599136353,False,
+skLI.txt,gemini,"{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": ""San Francisco, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
+      ""Company"": ""Stitch Fix"",
+      ""Duration"": ""Jun 2016 - Jun 2022""
+    },
+    {
+      ""Title"": ""Advisor"",
+      ""Company"": ""SellHound"",
+      ""Duration"": ""Oct 2018 - Oct 2020""
+    },
+    {
+      ""Title"": ""Senior Data Science Engineer"",
+      ""Company"": ""Idibon"",
+      ""Duration"": ""Jul 2015 - May 2016""
+    },
+    {
+      ""Title"": ""Senior Software Engineer"",
+      ""Company"": ""Nextdoor.com"",
+      ""Duration"": ""Dec 2012 - Jul 2015""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2008 - 2010""
+    },
+    {
+      ""Degree"": null,
+      ""Field"": null,
+      ""Institution"": ""Y Combinator"",
+      ""Years"": ""Jan 2023 - Apr 2023""
+    }
+  ],
+  ""Top Skills"": [
+    ""MLOps"",
+    ""Extract, Transform, Load (ETL)"",
+    ""A/B Testing"",
+    ""Python"",
+    ""Data Science""
+  ]
+}
+",3.6587178707122803,True,
+anLI.txt,openai-gpt,"{
+  ""Name"": ""Andrew Ng"",
+  ""Current Role"": ""Founder @ DeepLearning.AI; Managing General Partner @ AI Fund; Executive Chairman (previously CEO) @ LandingAI"",
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Co-Founder and Chairman"",
+      ""Company"": ""Coursera"",
+      ""Duration"": ""Jan 2012 - Present""
+    },
+    {
+      ""Title"": ""Adjunct Professor of Computer Science"",
+      ""Company"": ""Stanford University"",
+      ""Duration"": ""Sep 2002 - Present""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
+    },
+    {
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
+    }
+  ],
+  ""Top Skills"": [
+    ""Education"",
+    ""Educational Technology""
+  ]
+}",2.540390729904175,True,
+anLI.txt,llama3,"Here is the extracted information in JSON format:
+
+```
+{
+  ""Name"": ""Andrew Ng"",
+  ""Current Role"": ""Founder @ DeepLearning.AI; Managing General Partner @ AI Fund; Executive Chairman @ Landing AI"",
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Founder"",
+      ""Company"": ""DeepLearning.AI"",
+      ""Duration"": ""Jun 2017 - Present""
+    },
+    {
+      ""Title"": ""Managing General Partner"",
+      ""Company"": ""AI Fund"",
+      ""Duration"": ""Jan 2018 - Present""
+    },
+    {
+      ""Title"": ""Executive Chairman"",
+      ""Company"": ""Landing AI"",
+      ""Duration"": ""Oct 2017 - Present""
+    },
+    {
+      ""Title"": ""Co-Founder and Chairman"",
+      ""Company"": ""Coursera"",
+      ""Duration"": ""Jan 2012 - Present""
+    },
+    {
+      ""Title"": ""Adjunct Professor of Computer Science"",
+      ""Company"": ""Stanford University"",
+      ""Duration"": ""Sep 2002 - Present""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy (PhD)"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
+    },
+    {
+      ""Degree"": ""Master of Science (MS)"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
+    }
+  ],
+  ""Top Skills"": [
+    ""Education"",
+    ""Educational Technology""
+  ]
+}
+```
+
+Let me know if you'd like me to extract any additional information!",1.1961662769317627,False,
+anLI.txt,anthropic-claude,"{
+  ""Name"": ""Andrew Ng"",
+  ""Current Role"": ""Founder @ DeepLearning.AI"",
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Managing General Partner"",
+      ""Company"": ""AI Fund"",
+      ""Duration"": ""Jan 2018 - Present""
+    },
+    {
+      ""Title"": ""Executive Chairman (previously CEO)"",
+      ""Company"": ""LandingAI"",
+      ""Duration"": ""Oct 2017 - Present""
+    },
+    {
+      ""Title"": ""Co-Founder and Chairman"",
+      ""Company"": ""Coursera"",
+      ""Duration"": ""Jan 2012 - Present""
+    },
+    {
+      ""Title"": ""Adjunct Professor of Computer Science"",
+      ""Company"": ""Stanford University"",
+      ""Duration"": ""Sep 2002 - Present""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
+    },
+    {
+      ""Degree"": ""Master of Science - MS"", 
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
+    }
+  ],
+  ""Top Skills"": [
+    ""Education"",
+    ""Educational Technology""
+  ]
+}",15.259701013565063,True,
+anLI.txt,gemini,"{
+  ""Name"": ""Andrew Ng"",
+  ""Current Role"": ""Founder @ DeepLearning.AI; Managing General Partner @ AI Fund; Exec Chairman @ Landing AI"",
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Co-Founder and Chairman"",
+      ""Company"": ""Coursera"",
+      ""Duration"": ""Jan 2012 - Present""
+    },
+    {
+      ""Title"": ""Adjunct Professor of Computer Science"",
+      ""Company"": ""Stanford University"",
+      ""Duration"": ""Sep 2002 - Present""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
+    },
+    {
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
+    }
+  ],
+  ""Top Skills"": [
+    ""Education"",
+    ""Educational Technology""
+  ]
+}
+",2.6336989402770996,True,

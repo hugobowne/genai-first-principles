@@ -1,0 +1,42 @@
+model,raw_response,validated_response,execution_time
+openai-gpt,"{
+    ""Name"": ""Stefan Krawczyk"",
+    ""Current Role"": ""CEO @ DAGWorks Inc."",
+    ""Location"": {
+        ""City"": ""San Francisco"",
+        ""State"": ""California"",
+        ""Country"": ""United States""
+    },
+    ""Previous Roles"": [],
+    ""Education"": [],
+    ""Top Skills"": [""Data"", ""Data Science"", ""Machine Learning"", ""LLMs""]
+}",True,1.0836710929870605
+llama3,"Here is the extracted information in JSON format:
+
+{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": ""San Francisco, California, United States"",
+  ""Previous Roles"": [],
+  ""Education"": [],
+  ""Top Skills"": []
+}",False,0.5688772201538086
+anthropic-claude,"{
+    ""Name"": ""Stefan Krawczyk"",
+    ""Current Role"": ""CEO @ DAGWorks Inc."",
+    ""Location"": ""San Francisco, California, United States"",
+    ""Previous Roles"": [],
+    ""Education"": [],
+    ""Top Skills"": []
+}
+
+Note: While the profile snippet provides some information, it lacks comprehensive details about previous roles, education, and skills. I've populated the JSON with the available information and left other sections as empty arrays to maintain the expected structure.",False,2.880720853805542
+gemini,"{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": ""San Francisco, California, United States"",
+  ""Previous Roles"": [],
+  ""Education"": [],
+  ""Top Skills"": [""Data"", ""Data Science"", ""Machine Learning"", ""LLMs"", ""Pipelines & Agents""]
+}
+",True,0.8436791896820068

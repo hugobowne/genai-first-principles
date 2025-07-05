@@ -1,0 +1,232 @@
+
+0 notifications total
+
+    new feed updates notifications
+
+Home
+My Network
+Jobs
+Messaging
+Notifications
+
+    Advertise
+
+Andrew Ng
+
+Andrew has a premium account
+Click to upgrade to Premium
+Andrew Ng
+2nd degree connection 2nd
+Founder of DeepLearning.AI; Managing General Partner of AI Fund; Exec Chairman of Landing AI
+
+Palo Alto, California, United States Contact info
+
+    1,880,585 followers
+
+Sebastian Raschka, PhD, Joe Reis, and 7 other mutual connectionsSebastian Raschka, PhD, Joe Reis, and 7 other mutual connections
+
+AboutAbout
+Personal home page: http://andrewng.org Personal home page: http://andrewng.org 
+ActivityActivity
+
+1,880,585 followers1,880,585 followers
+Loaded 3 Posts posts
+
+    Andrew Ng posted this • 3d3d
+    Despite having worked on AI since I was a teenager, I’m now more excited than ever about what we can do with it, especially in building AI applications. Sparks are flying in our field, and 2025 will be a great year for building! One aspect of AI that I’m particularly excited about is how easy it is to build software prototypes. AI is lowering the cost of software development and expanding the set of possible applications. While it can help extend or maintain large software systems, it shines particularly in building prototypes and other simple applications quickly. If you want to build an app to print out flash cards for your kids (I just did this in a couple of hours with o1’s help), or write an application that monitors foreign exchange rates to manage international bank accounts (a real example from DeepLearning.AI’s finance team), or analyzes user reviews automatically to quickly flag problems with your products (DeepLearning.AI's content team does this), it is now possible to build these applications quickly through AI-assisted coding. I find AI-assisted coding especially effective for prototyping because (i) stand-alone prototypes require relatively little context and software integration and (ii) prototypes in alpha testing usually don’t have to be reliable. While generative AI also helps with engineering large, mission-critical software systems, the improvements in productivity there aren't as dramatic, because it’s challenging to give the AI system all the context it needs to navigate a large codebase and also to make sure the generated code is reliable (for example, covering all important corner cases). Until now, a huge friction point for getting a prototype into users’ hands has been deployment. Platforms like Bolt, Replit Agent, Vercel V0 use generative AI with agentic workflows to improve code quality, but more importantly, they also help deploy generated applications directly. (While I find these systems useful, my own workflow typically uses an LLM to design the system architecture and then generate code, one module at a time if there are multiple large modules. Then I test each module, edit the code further if needed — sometimes using an AI-enabled IDE like Cursor — and finally assemble the modules.) Building prototypes quickly is an efficient way to test ideas and get tasks done. It’s also a great way to learn. Perhaps most importantly, it’s really fun! (At least I think it is. 😄) [Reached length limit; full text: https://lnkd.in/gki7_qGv ], Happy New Year! Hopes For 2025 With Mustafa Suleyman, Audrey Tang, Albert Gu, Hanno Basse, and more..., deeplearning.ai
+    Despite having worked on AI since I was a teenager, I’m now more excited than ever about what we can do with it, especially in building AI applications. Sparks are flying in our field, and 2025 will be a great year for building!
+
+    One aspect of AI that I’m particularly excited about is how easy it is to build software prototypes. AI is lowering the cost of software development and expanding the set of possible applications. While it can help extend or maintain large software systems, it shines particularly in building prototypes and other simple applications quickly.
+
+    If you want to build an app to print out flash cards for your kids (I just did this in a couple of hours with o1’s help), or write an application that monitors foreign exchange rates to manage international bank accounts (a real example from DeepLearning.AI’s finance team), or analyzes user reviews automatically to quickly flag problems with your products (DeepLearning.AI's content team does this), it is now possible to build these applications quickly through AI-assisted coding.
+
+    I find AI-assisted coding especially effective for prototyping because (i) stand-alone prototypes require relatively little context and software integration and (ii) prototypes in alpha testing usually don’t have to be reliable. While generative AI also helps with engineering large, mission-critical software systems, the improvements in productivity there aren't as dramatic, because it’s challenging to give the AI system all the context it needs to navigate a large codebase and also to make sure the generated code is reliable (for example, covering all important corner cases).
+
+    Until now, a huge friction point for getting a prototype into users’ hands has been deployment. Platforms like Bolt, Replit Agent, Vercel V0 use generative AI with agentic workflows to improve code quality, but more importantly, they also help deploy generated applications directly. (While I find these systems useful, my own workflow typically uses an LLM to design the system architecture and then generate code, one module at a time if there are multiple large modules. Then I test each module, edit the code further if needed — sometimes using an AI-enabled IDE like Cursor — and finally assemble the modules.)
+
+    Building prototypes quickly is an efficient way to test ideas and get tasks done. It’s also a great way to learn. Perhaps most importantly, it’s really fun! (At least I think it is. 😄)
+
+    [Reached length limit; full text: https://lnkd.in/gki7_qGv ] 
+
+Happy New Year! Hopes For 2025 With Mustafa Suleyman, Audrey Tang, Albert Gu, Hanno Basse, and more...
+deeplearning.ai
+
+Andrew Ng posted this • 4d4d
+Happy sum(i**3 for i in range(10)) !
+Happy sum(i**3 for i in range(10)) ! 
+
+Andrew Ng posted this • 5d5d
+As we wrap up 2024, this year's final edition of The Batch summarizes some of the top stories of the year: - Agents ascendant: The growth of agentic workflows - Prices tumble: Rapidly falling LLM token prices - Generative video takes off - Smaller is beautiful: Small language models - Alternatives to acquisitions See the full articles here: https://lnkd.in/gNZXH8tk , Top AI Stories of 2024! Agents Rise, Prices Fall, Models Shrink, and more..., deeplearning.ai
+As we wrap up 2024, this year's final edition of The Batch summarizes some of the top stories of the year:
+- Agents ascendant: The growth of agentic workflows
+- Prices tumble: Rapidly falling LLM token prices
+- Generative video takes off 
+- Smaller is beautiful: Small language models
+- Alternatives to acquisitions 
+
+See the full articles here: https://lnkd.in/gNZXH8tk 
+Top AI Stories of 2024! Agents Rise, Prices Fall, Models Shrink, and more...
+deeplearning.ai
+
+Show all posts
+ExperienceExperience
+
+    DeepLearning.AI logo
+    FounderFounder
+    DeepLearning.AIDeepLearning.AI Jun 2017 - Present · 7 yrs 8 mosJun 2017 to Present · 7 yrs 8 mos Palo Alto, California, United StatesPalo Alto, California, United States
+            DeepLearning.AI provides technical training on Generative AI, Machine Learning, Deep Learning, and other topics. We also offer a widely read newsletter, The Batch (thebatch.ai), that covers what matters in AI right now. 
+
+            Our courses are often created with industry-leading AI companies (AWS, Google, OpenAI, etc.), and we offer both short courses that can be completed in an hour, and longer courses and specializations hosted on Coursera that give you a solid foundation in some aspect of AI. These courses are designed to offer hands-on practice with AI technologies, and you will gain practical, job-ready skills. 
+
+            Whether you are just starting out in AI or seeking to further an existing career, come see if we can help, at http://deeplearning.ai!DeepLearning.AI provides technical training on Generative AI, Machine Learning, Deep Learning, and other topics. We also offer a widely read newsletter, The Batch (thebatch.ai), that covers what matters in AI right now. Our courses are often created with industry-leading AI companies (AWS, Google, OpenAI, etc.), and we offer both short courses that can be completed in an hour, and longer courses and specializations hosted on Coursera that give you a solid foundation in some aspect of AI. These courses are designed to offer hands-on practice with AI technologies, and you will gain practical, job-ready skills. Whether you are just starting out in AI or seeking to further an existing career, come see if we can help, at http://deeplearning.ai!
+    AI Fund logo
+    Managing General PartnerManaging General Partner
+    AI FundAI Fund Jan 2018 - Present · 7 yrs 1 moJan 2018 to Present · 7 yrs 1 mo
+            AI Fund is a venture studio that partners with entrepreneurs to build AI companies that move humanity forward. We don't just provide capital, we actively help build the company: we seek to play at least a minor co-founder role in the companies we engage in. 
+
+            After identifying a concrete startup idea, we actively help the founder validate both customer need and technical feasibility (often collaborating to build a technical prototype), help shape the AI technology roadmap, the go-to-market, and help recruit the key leaders, including the AI engineering team. 
+
+            Because AI is a general purpose technology that can be applied to numerous sectors -- including ones that we at AI Fund don't have expertise in -- we partner with subject matter experts (SMEs) in logistics, healthcare, education, relationships, finance, and other sectors. By leveraging our AI expertise and the SME's expertise in an important application sector, we can build a promising AI business in that sector. 
+
+            We take responsible AI seriously and will, on ethical grounds, choose not to pursue projects that we otherwise assess to be financially sound.AI Fund is a venture studio that partners with entrepreneurs to build AI companies that move humanity forward. We don't just provide capital, we actively help build the company: we seek to play at least a minor co-founder role in the companies we engage in. After identifying a concrete startup idea, we actively help the founder validate both customer need and technical feasibility (often collaborating to build a technical prototype), help shape the AI technology roadmap, the go-to-market, and help recruit the key leaders, including the AI engineering team. Because AI is a general purpose technology that can be applied to numerous sectors -- including ones that we at AI Fund don't have expertise in -- we partner with subject matter experts (SMEs) in logistics, healthcare, education, relationships, finance, and other sectors. By leveraging our AI expertise and the SME's expertise in an important application sector, we can build a promising AI business in that sector. We take responsible AI seriously and will, on ethical grounds, choose not to pursue projects that we otherwise assess to be financially sound.
+    LandingAI logo
+    Executive Chairman (previously CEO) Executive Chairman (previously CEO) 
+    LandingAILandingAI Oct 2017 - Present · 7 yrs 4 mosOct 2017 to Present · 7 yrs 4 mos Palo Alto, CaliforniaPalo Alto, California
+            LandingAI delivers cutting-edge Visual AI solutions that empower customers to unlock the value of visual data.
+
+            Enabled by the transformer neural network (created by the Google Brain team), the Generative AI revolution has arrived in text processing. We see a similar a revolution coming in visual data processing. LandingAI is developing cutting-edge technologies to help customers process visual data in numerous sectors including manufacturing, industrial automation, life sciences, agriculture, geo-spatial imagery, retail, entertainment, and many others. 
+
+            Key technical innovations include our open source VisualAgent, Data-centric AI (the discipline of systematically engineering data to build an AI system), Vision Prompting, and domain-specific Large Vision Models.LandingAI delivers cutting-edge Visual AI solutions that empower customers to unlock the value of visual data. Enabled by the transformer neural network (created by the Google Brain team), the Generative AI revolution has arrived in text processing. We see a similar a revolution coming in visual data processing. LandingAI is developing cutting-edge technologies to help customers process visual data in numerous sectors including manufacturing, industrial automation, life sciences, agriculture, geo-spatial imagery, retail, entertainment, and many others. Key technical innovations include our open source VisualAgent, Data-centric AI (the discipline of systematically engineering data to build an AI system), Vision Prompting, and domain-specific Large Vision Models.
+    Coursera logo
+    Co-Founder and ChairmanCo-Founder and Chairman
+    CourseraCoursera Jan 2012 - Present · 13 yrs 1 moJan 2012 to Present · 13 yrs 1 mo Mountain View, CAMountain View, CA
+            Coursera (NYSE: COUR) envisions a world where anyone, anywhere has the power to transform their lives through learning. Coursera had started with my Machine Learning class and a nascent online education product I had built at Stanford. I served as the company's Co-CEO in the early years with day-to-day responsibility for product, engineering, sales, marketing and operations, and remain Chairman of the company today. Coursera now has over 100M learners, and we partner with more than 275 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations. Coursera's offerings include courses, specializations, job-ready professional certificates and degree programs. http://coursera.orgCoursera (NYSE: COUR) envisions a world where anyone, anywhere has the power to transform their lives through learning. Coursera had started with my Machine Learning class and a nascent online education product I had built at Stanford. I served as the company's Co-CEO in the early years with day-to-day responsibility for product, engineering, sales, marketing and operations, and remain Chairman of the company today. Coursera now has over 100M learners, and we partner with more than 275 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations. Coursera's offerings include courses, specializations, job-ready professional certificates and degree programs. http://coursera.org
+    Stanford University logo
+    Adjunct Professor of Computer ScienceAdjunct Professor of Computer Science
+    Stanford UniversityStanford University Sep 2002 - Present · 22 yrs 5 mosSep 2002 to Present · 22 yrs 5 mos
+            I was the Director of the Stanford AI Lab (https://ai.stanford.edu/), home to 20+ faculty members and research groups, and a tenured professor in Stanford's Computer Science department. More recently, I switched to an Adjunct Professor role. 
+
+            My research group's work focused on AI, Deep Learning, Machine Learning and Robotics. Notable projects include early work in Deep Learning (that led to the founding of Google Brain), early work in online education (that led to the founding of Coursera), ROS (a widely used open-source robotics development platform), and work on Reinforcement Learning for robotic control (such as the Stanford autonomous helicopter). More recent efforts include applications of AI to Healthcare and to Climate Change.I was the Director of the Stanford AI Lab (https://ai.stanford.edu/), home to 20+ faculty members and research groups, and a tenured professor in Stanford's Computer Science department. More recently, I switched to an Adjunct Professor role. My research group's work focused on AI, Deep Learning, Machine Learning and Robotics. Notable projects include early work in Deep Learning (that led to the founding of Google Brain), early work in online education (that led to the founding of Coursera), ROS (a widely used open-source robotics development platform), and work on Reinforcement Learning for robotic control (such as the Stanford autonomous helicopter). More recent efforts include applications of AI to Healthcare and to Climate Change.
+
+Show all 8 experiences
+EducationEducation
+
+    University of California, Berkeley logo
+    University of California, BerkeleyUniversity of California, Berkeley
+    Doctor of Philosophy - PhD, Computer Science Doctor of Philosophy - PhD, Computer Science 20032003
+    Massachusetts Institute of Technology logo
+    Massachusetts Institute of TechnologyMassachusetts Institute of Technology
+    Master of Science - MS, Electrical Engineering and Computer ScienceMaster of Science - MS, Electrical Engineering and Computer Science 19981998
+
+Show all 3 educations
+SkillsSkills
+
+    EducationEducation
+        Endorsed by 2 colleagues at DeepLearning.AI Endorsed by 2 colleagues at DeepLearning.AI
+        13 endorsements13 endorsements
+    Educational TechnologyEducational Technology
+        Endorsed by 2 colleagues at DeepLearning.AI Endorsed by 2 colleagues at DeepLearning.AI
+        51 endorsements51 endorsements
+
+Show all 4 skills
+InterestsInterests
+
+    Gary Swart profile picture
+    Gary SwartGary Swart
+
+· 2ndSecond degree connection
+General Partner at Polaris PartnersGeneral Partner at Polaris Partners 120,200 followers120,200 followers
+
+Bernard Marr profile picture
+Bernard MarrBernard Marr
+· 2ndSecond degree connection
+📖 Internationally Best-selling #Author🎤 #KeynoteSpeaker🤖 #Futurist💻 #Business, #Tech & #Strategy Advisor📖 Internationally Best-selling #Author🎤 #KeynoteSpeaker🤖 #Futurist💻 #Business, #Tech & #Strategy Advisor 1,534,396 followers1,534,396 followers
+
+Show all Top Voices
+More profiles for youMore profiles for you
+
+    Ilya Sutskever profile picture
+    Ilya SutskeverIlya Sutskever
+    · 2ndSecond degree connection
+    Co-Founder and Chief Scientist at Safe Superintelligence IncCo-Founder and Chief Scientist at Safe Superintelligence Inc
+    Ian Goodfellow profile picture
+    Ian GoodfellowIan Goodfellow
+    · 2ndSecond degree connection
+    Research ScientistResearch Scientist
+        View profile
+    Shravan Goli profile picture
+    Shravan GoliShravan Goli
+    · 2ndSecond degree connection
+    CEO, President, COO, Investor, Board DirectorCEO, President, COO, Investor, Board Director
+    Lex Fridman profile picture
+    Lex FridmanLex Fridman
+    · 2ndSecond degree connection
+    Research Scientist, MITResearch Scientist, MIT
+    Eric Vyacheslav profile picture
+    Eric VyacheslavEric Vyacheslav
+    · 2ndSecond degree connection
+    AI/ML Engineer | Ex-Google | Ex-MITAI/ML Engineer | Ex-Google | Ex-MIT
+
+Show all
+Explore Premium profilesExplore Premium profiles
+
+    Cole Green profile picture
+    Cole GreenCole Green
+    · 3rdThird degree connection
+    Biopharmaceutical Engineer at CSLBiopharmaceutical Engineer at CSL
+        View profile
+    Atiya Saleha Khan profile picture
+    Atiya Saleha KhanAtiya Saleha Khan
+    · 2ndSecond degree connection
+    Senior Software Engineer, MCPD, ITIL MPSenior Software Engineer, MCPD, ITIL MP
+    Chris Griffin profile picture
+    Chris GriffinChris Griffin
+    · 2ndSecond degree connection
+    Staff IT EngineerStaff IT Engineer
+    Khushee Shrestha profile picture
+    Khushee ShresthaKhushee Shrestha
+    · 2ndSecond degree connection
+    Machine Learning Engineer @ Brainfish | Master of Technology, Artificial IntelligenceMachine Learning Engineer @ Brainfish | Master of Technology, Artificial Intelligence
+
+Try premium to stand outTry premium to stand out
+People you may knowPeople you may know
+
+From Andrew's job titleFrom Andrew's job title
+
+    Jesse N. Clark profile picture
+    Jesse N. ClarkJesse N. Clark
+    Co-Founder & CTO 🦛 @marqo.ai 🦛Co-Founder & CTO 🦛 @marqo.ai 🦛
+    Tai Elliott profile picture
+    Tai ElliottTai Elliott
+    Founder @ Machine Learning LabsFounder @ Machine Learning Labs
+    Patrick Darmon 🎗️ profile picture
+    Patrick Darmon 🎗️Patrick Darmon 🎗️
+    Partner & Co-FounderPartner & Co-Founder
+    Brianda Yáñez Arrondo profile picture
+    Brianda Yáñez ArrondoBrianda Yáñez Arrondo
+    Emprendedora social. Ciencia de datos & IA. Ética, transparencia, perspectiva social y medioambientalEmprendedora social. Ciencia de datos & IA. Ética, transparencia, perspectiva social y medioambiental
+    Matt Brandwein profile picture
+    Matt BrandweinMatt Brandwein
+    Co-Founder at Hidden DoorCo-Founder at Hidden Door
+
+Show all
+You might likeYou might like
+
+Newsletters for youNewsletters for you
+
+    Image for Research and innovation news
+    Research and innovation news Research and innovation news 
+    Monthly digest of research and innovation news at the University of Oxford Monthly digest of research and innovation news at the University of Oxford 
+    Published monthlyPublished monthly
+        University of Oxford University of Oxford
+    Image for Spark
+    SparkSpark
+    Tips and insights from TED events — plus inspiring extras from our global communityTips and insights from TED events — plus inspiring extras from our global community
+    Published monthlyPublished monthly
+        TED Conferences TED Conferences
+
+Show all
+Hugo Bowne-Anderson
+Status is online
+Page inboxes
+8 8 new notifications
