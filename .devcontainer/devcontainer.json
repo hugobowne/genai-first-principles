@@ -1,0 +1,14 @@
+{
+  "name": "Python Codespace with UV",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "curl -LsSf https://astral.sh/uv/install.sh | sh && uv venv && uv pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"],
+      "settings": {
+        "python.defaultInterpreterPath": "/workspaces/genai-first-principles/.venv/bin/python",
+        "python.terminal.activateEnvInCurrentTerminal": true
+      }
+    }
+  }
+} 
