@@ -1,132 +1,7 @@
 File,Raw Response,Validated JSON,Latency
-anLI.txt,"{
-  ""Name"": ""Andrew Ng"",
-  ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ Landing AI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
-  ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
-    {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
-    },
-    {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
-    }
-  ],
-  ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology""
-  ]
-}
-",True,1.8692469596862793
-cwLI.txt,"{
-  ""Name"": ""Chris Wiggins"",
-  ""Current Role"": [
-    ""Associate Professor @ Columbia University"",
-    ""Chief Data Scientist @ The New York Times"",
-    ""cofounder @ hackNY.org"",
-    ""Senior Advisor @ Bowery Capital"",
-    ""Journal of Machine Learning Research, Action Editors @ JOURNAL OF MACHINE LEARNING RESEARCH INC""
-  ],
-  ""Location"": ""New York, New York, United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Courant Instructor"",
-      ""Company"": ""NYU"",
-      ""Duration"": ""1998-2001""
-    }
-  ],
-  ""Education"": [
-    {
-      ""Degree"": ""PhD, Physics"",
-      ""Field"": ""Physics"",
-      ""Institution"": ""Princeton University"",
-      ""Years"": ""1993 - 1998""
-    },
-    {
-      ""Degree"": ""BA, Physics"",
-      ""Field"": ""Physics"",
-      ""Institution"": ""Columbia University"",
-      ""Years"": ""1989 - 1993""
-    }
-  ],
-  ""Top Skills"": [
-    ""Applied Mathematics"",
-    ""Machine Learning""
-  ]
-}
-",True,2.114799976348877
-skLI.txt,"{
-  ""Name"": ""Stefan Krawczyk"",
-  ""Current Role"": ""CEO @ DAGWorks Inc."",
-  ""Location"": ""San Francisco, California, United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
-      ""Company"": ""Stitch Fix"",
-      ""Start Date"": ""Jun 2016"",
-      ""End Date"": ""Jun 2022""
-    },
-    {
-      ""Title"": ""Advisor"",
-      ""Company"": ""SellHound"",
-      ""Start Date"": ""Oct 2018"",
-      ""End Date"": ""Oct 2020""
-    },
-    {
-      ""Title"": ""Senior Data Science Engineer"",
-      ""Company"": ""Idibon"",
-      ""Start Date"": ""Jul 2015"",
-      ""End Date"": ""May 2016""
-    },
-    {
-      ""Title"": ""Senior Software Engineer"",
-      ""Company"": ""Nextdoor.com"",
-      ""Start Date"": ""Dec 2012"",
-      ""End Date"": ""Jul 2015""
-    }
-  ],
-  ""Education"": [
-    {
-      ""Degree"": ""Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""Stanford University"",
-      ""Years"": ""2008 - 2010""
-    },
-    {
-      ""Degree"": null,
-      ""Field"": null,
-      ""Institution"": ""Y Combinator"",
-      ""Years"": ""Jan 2023 - Apr 2023""
-    }
-  ],
-  ""Top Skills"": [
-    ""MLOps"",
-    ""A/B Testing"",
-    ""Extract, Transform, Load (ETL)"",
-    ""Python"",
-    ""Data Science""
-  ]
-}
-",True,3.2079741954803467
 hhLI.txt,"{
   ""Name"": ""Hamel Husain"",
-  ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
-  ],
+  ""Current Role"": ""Independent Consultant @ Parlance Labs, Scout @ Bain Capital, R&D @ AnswerAI"",
   ""Location"": ""United States"",
   ""Previous Roles"": [
     {
@@ -167,7 +42,124 @@ hhLI.txt,"{
     ""Data Science""
   ]
 }
-",True,2.662858009338379
+",True,2.7590630054473877
+cwLI.txt,"{
+  ""Name"": ""chris wiggins"",
+  ""Current Role"": [
+    ""Associate Professor @ Columbia University"",
+    ""Chief Data Scientist @ The New York Times"",
+    ""cofounder @ hackNY.org"",
+    ""Senior Advisor @ Bowery Capital"",
+    ""Journal of Machine Learning Research, Action Editors @ JOURNAL OF MACHINE LEARNING RESEARCH INC""
+  ],
+  ""Location"": ""New York, New York, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Courant Instructor"",
+      ""Company"": ""NYU"",
+      ""Duration"": ""1998-2001""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""PhD, Physics"",
+      ""Field"": ""Physics"",
+      ""Institution"": ""Princeton University"",
+      ""Years"": ""1993 - 1998""
+    },
+    {
+      ""Degree"": ""BA, Physics"",
+      ""Field"": ""Physics"",
+      ""Institution"": ""Columbia University"",
+      ""Years"": ""1989 - 1993""
+    }
+  ],
+  ""Top Skills"": [
+    ""Applied Mathematics"",
+    ""Machine Learning""
+  ]
+}
+",True,2.4590213298797607
+skLI.txt,"{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": ""San Francisco, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
+      ""Company"": ""Stitch Fix"",
+      ""Duration"": ""Jun 2016 - Jun 2022""
+    },
+    {
+      ""Title"": ""Advisor"",
+      ""Company"": ""SellHound"",
+      ""Duration"": ""Oct 2018 - Oct 2020""
+    },
+    {
+      ""Title"": ""Senior Data Science Engineer"",
+      ""Company"": ""Idibon"",
+      ""Duration"": ""Jul 2015 - May 2016""
+    },
+    {
+      ""Title"": ""Senior Software Engineer"",
+      ""Company"": ""Nextdoor.com"",
+      ""Duration"": ""Dec 2012 - Jul 2015""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2008 - 2010""
+    },
+    {
+      ""Degree"": null,
+      ""Field"": null,
+      ""Institution"": ""Y Combinator"",
+      ""Years"": ""Jan 2023 - Apr 2023""
+    }
+  ],
+  ""Top Skills"": [
+    ""MLOps"",
+    ""Extract, Transform, Load (ETL)"",
+    ""A/B Testing"",
+    ""Python"",
+    ""Data Science""
+  ]
+}
+",True,3.3088953495025635
+anLI.txt,"{
+  ""Name"": ""Andrew Ng"",
+  ""Current Role"": [
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
+  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
+    },
+    {
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
+    }
+  ],
+  ""Top Skills"": [
+    ""Education"",
+    ""Educational Technology""
+  ]
+}
+",True,2.1193625926971436
 hbaLI.txt,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": ""Independent Data and AI Scientist @ Freelance"",
@@ -221,4 +213,4 @@ hbaLI.txt,"{
     ""Data Analysis""
   ]
 }
-",True,3.2280588150024414
+",True,3.8392810821533203

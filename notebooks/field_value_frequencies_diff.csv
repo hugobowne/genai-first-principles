@@ -1,10 +1,9 @@
 File,Field,Value,Frequency
-data/anLI.txt,Name,Andrew Ng,10
-data/anLI.txt,Current Role,"['Founder @ DeepLearning.AI', 'Managing General Partner @ AI Fund', 'Executive Chairman (previously CEO) @ LandingAI', 'Co-Founder and Chairman @ Coursera', 'Adjunct Professor of Computer Science @ Stanford University']",10
-data/anLI.txt,Previous Roles,[],10
-data/anLI.txt,Top Skills,"['Education', 'Educational Technology']",2
-data/anLI.txt,Top Skills,"['Education', 'Educational Technology', 'AI', 'Deep Learning', 'Machine Learning']",8
-data/anLI.txt,Education,"[{'Degree': 'Doctor of Philosophy - PhD', 'Field': 'Computer Science', 'Institution': 'University of California, Berkeley', 'Years': '2003'}, {'Degree': 'Master of Science - MS', 'Field': 'Electrical Engineering and Computer Science', 'Institution': 'Massachusetts Institute of Technology', 'Years': '1998'}]",10
+data/hhLI.txt,Name,Hamel Husain,10
+data/hhLI.txt,Current Role,"['Independent Consultant @ Parlance Labs', 'R&D @ AnswerAI', 'Scout @ Bain Capital']",10
+data/hhLI.txt,Previous Roles,"[{'Title': 'Entrepreneur in Residence', 'Company': 'fast.ai', 'Start Date': 'Aug 2022', 'End Date': 'May 2023'}, {'Title': 'Core Contributor & Maintainer', 'Company': 'fast.ai', 'Start Date': 'Sep 2019', 'End Date': 'Aug 2022'}, {'Title': 'Head of ML & Data Science', 'Company': 'Outerbounds', 'Start Date': 'Jan 2022', 'End Date': 'Aug 2022'}]",10
+data/hhLI.txt,Top Skills,"['Analytics', 'Predictive Modeling', 'Machine Learning', 'AI', 'Data Science']",10
+data/hhLI.txt,Education,"[{'Degree': 'Master of Science (M.S.), Computer Science, Machine Learning', 'Field': 'Computer Science, Machine Learning', 'Institution': 'Georgia Institute of Technology', 'Years': None}, {'Degree': 'Doctor of Law (J.D.), Cum Laude', 'Field': None, 'Institution': 'University of Michigan', 'Years': None}]",10
 data/cwLI.txt,Name,Chris Wiggins,10
 data/cwLI.txt,Current Role,"['Associate Professor @ Columbia University', 'Chief Data Scientist @ The New York Times', 'cofounder @ hackNY.org', 'Senior Advisor @ Bowery Capital', 'Journal of Machine Learning Research, Action Editors @ JOURNAL OF MACHINE LEARNING RESEARCH INC']",10
 data/cwLI.txt,Previous Roles,"[{'Title': 'Courant Instructor', 'Company': 'NYU', 'Start Date': '1998', 'End Date': '2001'}]",10
@@ -13,17 +12,16 @@ data/cwLI.txt,Education,"[{'Degree': 'PhD, Physics', 'Field': 'Physics', 'Instit
 data/skLI.txt,Name,Stefan Krawczyk,10
 data/skLI.txt,Current Role,CEO @ DAGWorks Inc.,10
 data/skLI.txt,Previous Roles,"[{'Title': 'Data Platform - Mgr. Model Lifecycle', 'Company': 'Stitch Fix', 'Start Date': 'Jun 2016', 'End Date': 'Jun 2022'}, {'Title': 'Advisor', 'Company': 'SellHound', 'Start Date': 'Oct 2018', 'End Date': 'Oct 2020'}, {'Title': 'Senior Data Science Engineer', 'Company': 'Idibon', 'Start Date': 'Jul 2015', 'End Date': 'May 2016'}, {'Title': 'Senior Software Engineer', 'Company': 'Nextdoor.com', 'Start Date': 'Dec 2012', 'End Date': 'Jul 2015'}]",10
-data/skLI.txt,Top Skills,"['MLOps', 'Python', 'A/B Testing', 'Data Platforms', 'Machine Learning']",3
-data/skLI.txt,Top Skills,"['MLOps', 'A/B Testing', 'Extract, Transform, Load (ETL)', 'Python', 'Data Science']",5
-data/skLI.txt,Top Skills,"['MLOps', 'Extract, Transform, Load (ETL)', 'A/B Testing', 'Python', 'Data Science']",1
-data/skLI.txt,Top Skills,"['MLOps', 'A/B Testing', 'Extract, Transform, Load (ETL)', 'Python', 'Software Development Life Cycle (SDLC)']",1
-data/skLI.txt,Education,"[{'Degree': 'Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research', 'Field': 'Computer Science', 'Institution': 'Stanford University', 'Years': '2008 - 2010'}, {'Degree': None, 'Field': None, 'Institution': 'Y Combinator', 'Years': 'Jan 2023 - Apr 2023'}]",6
-data/skLI.txt,Education,"[{'Degree': 'Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research', 'Field': 'Computer Science', 'Institution': 'Stanford University', 'Years': '2008 - 2010'}, {'Degree': 'W23', 'Field': None, 'Institution': 'Y Combinator', 'Years': 'Jan 2023 - Apr 2023'}]",4
-data/hhLI.txt,Name,Hamel Husain,10
-data/hhLI.txt,Current Role,"['Independent Consultant @ Parlance Labs', 'R&D @ AnswerAI', 'Scout @ Bain Capital']",10
-data/hhLI.txt,Previous Roles,"[{'Title': 'Entrepreneur in Residence', 'Company': 'fast.ai', 'Start Date': 'Aug 2022', 'End Date': 'May 2023'}, {'Title': 'Core Contributor & Maintainer', 'Company': 'fast.ai', 'Start Date': 'Sep 2019', 'End Date': 'Aug 2022'}, {'Title': 'Head of ML & Data Science', 'Company': 'Outerbounds', 'Start Date': 'Jan 2022', 'End Date': 'Aug 2022'}]",10
-data/hhLI.txt,Top Skills,"['Analytics', 'Predictive Modeling', 'Machine Learning', 'AI', 'Data Science']",10
-data/hhLI.txt,Education,"[{'Degree': 'Master of Science (M.S.), Computer Science, Machine Learning', 'Field': 'Computer Science, Machine Learning', 'Institution': 'Georgia Institute of Technology', 'Years': None}, {'Degree': 'Doctor of Law (J.D.), Cum Laude', 'Field': None, 'Institution': 'University of Michigan', 'Years': None}]",10
+data/skLI.txt,Top Skills,"['MLOps', 'Python', 'Data Platforms', 'A/B Testing', 'ETL']",1
+data/skLI.txt,Top Skills,"['MLOps', 'Python', 'A/B Testing', 'Data Platforms', 'Machine Learning']",2
+data/skLI.txt,Top Skills,"['MLOps', 'A/B Testing', 'Extract, Transform, Load (ETL)', 'Python', 'Data Science']",7
+data/skLI.txt,Education,"[{'Degree': 'Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research', 'Field': 'Computer Science', 'Institution': 'Stanford University', 'Years': '2008 - 2010'}, {'Degree': 'W23', 'Field': None, 'Institution': 'Y Combinator', 'Years': 'Jan 2023 - Apr 2023'}]",2
+data/skLI.txt,Education,"[{'Degree': 'Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research', 'Field': 'Computer Science', 'Institution': 'Stanford University', 'Years': '2008 - 2010'}, {'Degree': None, 'Field': None, 'Institution': 'Y Combinator', 'Years': 'Jan 2023 - Apr 2023'}]",8
+data/anLI.txt,Name,Andrew Ng,10
+data/anLI.txt,Current Role,"['Founder @ DeepLearning.AI', 'Managing General Partner @ AI Fund', 'Executive Chairman (previously CEO) @ LandingAI', 'Co-Founder and Chairman @ Coursera', 'Adjunct Professor of Computer Science @ Stanford University']",10
+data/anLI.txt,Previous Roles,[],10
+data/anLI.txt,Top Skills,"['Education', 'Educational Technology', 'AI', 'Deep Learning', 'Machine Learning']",10
+data/anLI.txt,Education,"[{'Degree': 'Doctor of Philosophy - PhD', 'Field': 'Computer Science', 'Institution': 'University of California, Berkeley', 'Years': '2003'}, {'Degree': 'Master of Science - MS', 'Field': 'Electrical Engineering and Computer Science', 'Institution': 'Massachusetts Institute of Technology', 'Years': '1998'}]",10
 data/hbaLI.txt,Name,Hugo Bowne-Anderson,10
 data/hbaLI.txt,Current Role,['Independent Data and AI Scientist @ Freelance'],10
 data/hbaLI.txt,Previous Roles,"[{'Title': 'Head of Developer Relations', 'Company': 'Outerbounds', 'Start Date': 'Feb 2022', 'End Date': 'Aug 2024'}, {'Title': 'Head of Data Science Evangelism and Marketing', 'Company': 'Coiled', 'Start Date': 'May 2020', 'End Date': 'Oct 2021'}, {'Title': 'Data Scientist', 'Company': 'DataCamp', 'Start Date': 'Sep 2017', 'End Date': 'May 2020'}, {'Title': 'Curriculum Engineer (Python)', 'Company': 'DataCamp', 'Start Date': 'Mar 2016', 'End Date': 'May 2020'}, {'Title': 'Postdoctoral Associate/Writer', 'Company': 'Yale University', 'Start Date': '2013', 'End Date': 'Mar 2016'}]",10

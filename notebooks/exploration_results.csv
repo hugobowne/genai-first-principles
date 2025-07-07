@@ -7,36 +7,150 @@ openai-gpt,"{
         ""State"": ""California"",
         ""Country"": ""United States""
     },
-    ""Previous Roles"": [],
-    ""Education"": [],
-    ""Top Skills"": [""Data"", ""Data Science"", ""Machine Learning"", ""LLMs""]
-}",True,1.0836710929870605
+    ""Previous Roles"": [
+        {
+            ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
+            ""Company"": ""Stitch Fix"",
+            ""Duration"": ""Jun 2016 - Jun 2022""
+        },
+        {
+            ""Title"": ""Senior Data Science Engineer"",
+            ""Company"": ""Idibon"",
+            ""Duration"": ""Jul 2015 - May 2016""
+        },
+        {
+            ""Title"": ""Senior Software Engineer"",
+            ""Company"": ""Nextdoor.com"",
+            ""Duration"": ""Dec 2012 - Jul 2015""
+        }
+    ],
+    ""Education"": [
+        {
+            ""Degree"": ""Master of Science"",
+            ""Field"": ""Computer Science"",
+            ""Institution"": ""Stanford University"",
+            ""Years"": ""2008 - 2010""
+        }
+    ],
+    ""Top Skills"": [
+        ""Software Development Life Cycle (SDLC)"",
+        ""Open-Source Software"",
+        ""MLOps"",
+        ""A/B Testing""
+    ]
+}",True,4.878808975219727
 llama3,"Here is the extracted information in JSON format:
+
+```
+{
+    ""name"": ""Stefan Krawczyk"",
+    ""current_role"": ""Chief Executive Officer @ DAGWorks Inc."",
+    ""location"": ""San Francisco, California, United States"",
+    ""previous_roles"": [
+        {
+            ""title"": ""Data Platform - Mgr. Model Lifecycle @ Stitch Fix"",
+            ""duration"": ""Jun 2016 - Jun 2022"",
+            ""company"": ""Stitch Fix""
+        },
+        {
+            ""title"": ""Advisor @ SellHound"",
+            ""duration"": ""Oct 2018 - Oct 2020"",
+            ""company"":",False,1.1682002544403076
+anthropic-claude,"Here is the structured information extracted from the candidate's LinkedIn profile in JSON format:
 
 {
   ""Name"": ""Stefan Krawczyk"",
-  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Current Role"": ""Chief Executive Officer @ DAGWorks Inc."",
   ""Location"": ""San Francisco, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [],
-  ""Top Skills"": []
-}",False,0.5688772201538086
-anthropic-claude,"{
-    ""Name"": ""Stefan Krawczyk"",
-    ""Current Role"": ""CEO @ DAGWorks Inc."",
-    ""Location"": ""San Francisco, California, United States"",
-    ""Previous Roles"": [],
-    ""Education"": [],
-    ""Top Skills"": []
-}
-
-Note: While the profile snippet provides some information, it lacks comprehensive details about previous roles, education, and skills. I've populated the JSON with the available information and left other sections as empty arrays to maintain the expected structure.",False,2.880720853805542
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
+      ""Company"": ""Stitch Fix"",
+      ""Duration"": ""Jun 2016 - Jun 2022""
+    },
+    {
+      ""Title"": ""Advisor"",
+      ""Company"": ""SellHound"",
+      ""Duration"": ""Oct 2018 - Oct 2020""
+    },
+    {
+      ""Title"": ""Senior Data Science Engineer"",
+      ""Company"": ""Idibon"",
+      ""Duration"": ""Jul 2015 - May 2016""
+    },
+    {
+      ""Title"": ""Senior Software Engineer"",
+      ""Company"": ""Nextdoor.com"",
+      ""Duration"": ""Dec 2012 - Jul 2015""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science, Computer Science - specializing in Artificial Intelligence"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2008 - 2010""
+    },
+    {
+      ""Degree"": ""W23"",
+      ""Institution"": ""Y Combinator"",
+      ""Years"": ""Jan 2023 - Apr 2023""
+    }
+  ],
+  ""Top Skills"": [
+    ""Software Development Life Cycle (SDLC)"",
+    ""Open-Source Software"",
+    ""MLOps"",
+    ""A/B Testing"",
+    ""Extract, Transform, Load (ETL)""
+  ]
+}",False,3.945143222808838
 gemini,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
   ""Location"": ""San Francisco, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [],
-  ""Top Skills"": [""Data"", ""Data Science"", ""Machine Learning"", ""LLMs"", ""Pipelines & Agents""]
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
+      ""Company"": ""Stitch Fix"",
+      ""Duration"": ""Jun 2016 - Jun 2022""
+    },
+    {
+      ""Title"": ""Advisor"",
+      ""Company"": ""SellHound"",
+      ""Duration"": ""Oct 2018 - Oct 2020""
+    },
+    {
+      ""Title"": ""Senior Data Science Engineer"",
+      ""Company"": ""Idibon"",
+      ""Duration"": ""Jul 2015 - May 2016""
+    },
+    {
+      ""Title"": ""Senior Software Engineer"",
+      ""Company"": ""Nextdoor.com"",
+      ""Duration"": ""Dec 2012 - Jul 2015""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2008 - 2010""
+    },
+    {
+      ""Degree"": null,
+      ""Field"": null,
+      ""Institution"": ""Y Combinator"",
+      ""Years"": ""Jan 2023 - Apr 2023""
+    }
+  ],
+  ""Top Skills"": [
+    ""MLOps"",
+    ""Extract, Transform, Load (ETL)"",
+    ""A/B Testing"",
+    ""Python"",
+    ""Software Development Life Cycle (SDLC)""
+  ]
 }
-",True,0.8436791896820068
+",True,3.3744685649871826

@@ -1,338 +1,514 @@
 File,Run,Raw Response,Validated JSON,Latency
-data/anLI.txt,1,"{
-  ""Name"": ""Andrew Ng"",
+data/hhLI.txt,1,"{
+  ""Name"": ""Hamel Husain"",
   ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
   ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
     {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
     },
     {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
     }
   ],
   ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology"",
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
     ""AI"",
-    ""Deep Learning"",
-    ""Machine Learning""
+    ""Data Science""
   ]
 }
-",True,1.8929049968719482
-data/anLI.txt,2,"{
-  ""Name"": ""Andrew Ng"",
+",True,3.976050615310669
+data/hhLI.txt,2,"{
+  ""Name"": ""Hamel Husain"",
   ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
   ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
     {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
     },
     {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
     }
   ],
   ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology""
-  ]
-}
-",True,1.8576738834381104
-data/anLI.txt,3,"{
-  ""Name"": ""Andrew Ng"",
-  ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
-  ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
-    {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
-    },
-    {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
-    }
-  ],
-  ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology"",
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
     ""AI"",
-    ""Deep Learning"",
-    ""Machine Learning""
+    ""Data Science""
   ]
 }
-",True,1.9169259071350098
-data/anLI.txt,4,"{
-  ""Name"": ""Andrew Ng"",
+",True,3.0136241912841797
+data/hhLI.txt,3,"{
+  ""Name"": ""Hamel Husain"",
   ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
   ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
     {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
     },
     {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
     }
   ],
   ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology"",
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
     ""AI"",
-    ""Deep Learning"",
-    ""Machine Learning""
+    ""Data Science""
   ]
 }
-",True,1.9138059616088867
-data/anLI.txt,5,"{
-  ""Name"": ""Andrew Ng"",
+",True,3.366943120956421
+data/hhLI.txt,4,"{
+  ""Name"": ""Hamel Husain"",
   ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
   ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
     {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
     },
     {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
     }
   ],
   ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology"",
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
     ""AI"",
-    ""Deep Learning"",
-    ""Machine Learning""
+    ""Data Science""
   ]
 }
-",True,1.9133508205413818
-data/anLI.txt,6,"{
-  ""Name"": ""Andrew Ng"",
+",True,3.355689764022827
+data/hhLI.txt,5,"{
+  ""Name"": ""Hamel Husain"",
   ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
   ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
     {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
     },
     {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
     }
   ],
   ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology""
-  ]
-}
-",True,1.8181450366973877
-data/anLI.txt,7,"{
-  ""Name"": ""Andrew Ng"",
-  ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
-  ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
-    {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
-    },
-    {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
-    }
-  ],
-  ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology"",
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
     ""AI"",
-    ""Deep Learning"",
-    ""Machine Learning""
+    ""Data Science""
   ]
 }
-",True,1.8880200386047363
-data/anLI.txt,8,"{
-  ""Name"": ""Andrew Ng"",
+",True,3.2588324546813965
+data/hhLI.txt,6,"{
+  ""Name"": ""Hamel Husain"",
   ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
   ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
     {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
     },
     {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
     }
   ],
   ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology"",
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
     ""AI"",
-    ""Deep Learning"",
-    ""Machine Learning""
+    ""Data Science""
   ]
 }
-",True,1.9543380737304688
-data/anLI.txt,9,"{
-  ""Name"": ""Andrew Ng"",
+",True,3.1187996864318848
+data/hhLI.txt,7,"{
+  ""Name"": ""Hamel Husain"",
   ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
   ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
     {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
     },
     {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
     }
   ],
   ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology"",
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
     ""AI"",
-    ""Deep Learning"",
-    ""Machine Learning""
+    ""Data Science""
   ]
 }
-",True,1.9049129486083984
-data/anLI.txt,10,"{
-  ""Name"": ""Andrew Ng"",
+",True,2.9830029010772705
+data/hhLI.txt,8,"{
+  ""Name"": ""Hamel Husain"",
   ""Current Role"": [
-    ""Founder @ DeepLearning.AI"",
-    ""Managing General Partner @ AI Fund"",
-    ""Executive Chairman (previously CEO) @ LandingAI"",
-    ""Co-Founder and Chairman @ Coursera"",
-    ""Adjunct Professor of Computer Science @ Stanford University""
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
   ],
-  ""Location"": ""Palo Alto, California, United States"",
-  ""Previous Roles"": [],
-  ""Education"": [
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
     {
-      ""Degree"": ""Doctor of Philosophy - PhD"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""University of California, Berkeley"",
-      ""Years"": ""2003""
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
     },
     {
-      ""Degree"": ""Master of Science - MS"",
-      ""Field"": ""Electrical Engineering and Computer Science"",
-      ""Institution"": ""Massachusetts Institute of Technology"",
-      ""Years"": ""1998""
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
     }
   ],
   ""Top Skills"": [
-    ""Education"",
-    ""Educational Technology"",
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
     ""AI"",
-    ""Deep Learning"",
-    ""Machine Learning""
+    ""Data Science""
   ]
 }
-",True,1.9090392589569092
+",True,3.3512754440307617
+data/hhLI.txt,9,"{
+  ""Name"": ""Hamel Husain"",
+  ""Current Role"": [
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
+  ],
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
+    },
+    {
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
+    }
+  ],
+  ""Top Skills"": [
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
+    ""AI"",
+    ""Data Science""
+  ]
+}
+",True,2.841426372528076
+data/hhLI.txt,10,"{
+  ""Name"": ""Hamel Husain"",
+  ""Current Role"": [
+    ""Independent Consultant @ Parlance Labs"",
+    ""R&D @ AnswerAI"",
+    ""Scout @ Bain Capital""
+  ],
+  ""Location"": ""United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Entrepreneur in Residence"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Aug 2022"",
+      ""End Date"": ""May 2023""
+    },
+    {
+      ""Title"": ""Core Contributor & Maintainer"",
+      ""Company"": ""fast.ai"",
+      ""Start Date"": ""Sep 2019"",
+      ""End Date"": ""Aug 2022""
+    },
+    {
+      ""Title"": ""Head of ML & Data Science"",
+      ""Company"": ""Outerbounds"",
+      ""Start Date"": ""Jan 2022"",
+      ""End Date"": ""Aug 2022""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
+      ""Field"": ""Computer Science, Machine Learning"",
+      ""Institution"": ""Georgia Institute of Technology"",
+      ""Years"": null
+    },
+    {
+      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
+      ""Field"": null,
+      ""Institution"": ""University of Michigan"",
+      ""Years"": null
+    }
+  ],
+  ""Top Skills"": [
+    ""Analytics"",
+    ""Predictive Modeling"",
+    ""Machine Learning"",
+    ""AI"",
+    ""Data Science""
+  ]
+}
+",True,3.3046412467956543
 data/cwLI.txt,1,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -373,7 +549,7 @@ data/cwLI.txt,1,"{
     ""Biophysics""
   ]
 }
-",True,2.3241872787475586
+",True,2.6514456272125244
 data/cwLI.txt,2,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -414,7 +590,7 @@ data/cwLI.txt,2,"{
     ""Biophysics""
   ]
 }
-",True,2.3571908473968506
+",True,2.642793893814087
 data/cwLI.txt,3,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -455,7 +631,7 @@ data/cwLI.txt,3,"{
     ""Biophysics""
   ]
 }
-",True,2.3296940326690674
+",True,2.7335925102233887
 data/cwLI.txt,4,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -496,7 +672,7 @@ data/cwLI.txt,4,"{
     ""Biophysics""
   ]
 }
-",True,2.335271120071411
+",True,2.7365357875823975
 data/cwLI.txt,5,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -537,7 +713,7 @@ data/cwLI.txt,5,"{
     ""Biophysics""
   ]
 }
-",True,2.349151849746704
+",True,2.56135892868042
 data/cwLI.txt,6,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -578,7 +754,7 @@ data/cwLI.txt,6,"{
     ""Biophysics""
   ]
 }
-",True,2.314678907394409
+",True,2.677126169204712
 data/cwLI.txt,7,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -619,7 +795,7 @@ data/cwLI.txt,7,"{
     ""Biophysics""
   ]
 }
-",True,2.3091907501220703
+",True,2.974487781524658
 data/cwLI.txt,8,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -660,7 +836,7 @@ data/cwLI.txt,8,"{
     ""Biophysics""
   ]
 }
-",True,2.3097219467163086
+",True,2.5862984657287598
 data/cwLI.txt,9,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -701,7 +877,7 @@ data/cwLI.txt,9,"{
     ""Biophysics""
   ]
 }
-",True,2.376037836074829
+",True,2.9397144317626953
 data/cwLI.txt,10,"{
   ""Name"": ""Chris Wiggins"",
   ""Current Role"": [
@@ -742,7 +918,7 @@ data/cwLI.txt,10,"{
     ""Biophysics""
   ]
 }
-",True,2.301633834838867
+",True,2.4516549110412598
 data/skLI.txt,1,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
@@ -795,7 +971,7 @@ data/skLI.txt,1,"{
     ""Data Science""
   ]
 }
-",True,3.1606860160827637
+",True,4.516662836074829
 data/skLI.txt,2,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
@@ -848,7 +1024,7 @@ data/skLI.txt,2,"{
     ""Data Science""
   ]
 }
-",True,3.1648340225219727
+",True,3.4122965335845947
 data/skLI.txt,3,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
@@ -895,13 +1071,13 @@ data/skLI.txt,3,"{
   ],
   ""Top Skills"": [
     ""MLOps"",
-    ""Python"",
     ""A/B Testing"",
-    ""Data Platforms"",
-    ""Machine Learning""
+    ""Extract, Transform, Load (ETL)"",
+    ""Python"",
+    ""Data Science""
   ]
 }
-",True,3.2431480884552
+",True,4.146640300750732
 data/skLI.txt,4,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
@@ -948,13 +1124,13 @@ data/skLI.txt,4,"{
   ],
   ""Top Skills"": [
     ""MLOps"",
-    ""A/B Testing"",
-    ""Extract, Transform, Load (ETL)"",
     ""Python"",
-    ""Data Science""
+    ""A/B Testing"",
+    ""Data Platforms"",
+    ""Machine Learning""
   ]
 }
-",True,3.300118923187256
+",True,7.243982791900635
 data/skLI.txt,5,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
@@ -1007,61 +1183,8 @@ data/skLI.txt,5,"{
     ""Data Science""
   ]
 }
-",True,3.3210270404815674
+",True,4.968839883804321
 data/skLI.txt,6,"{
-  ""Name"": ""Stefan Krawczyk"",
-  ""Current Role"": ""CEO @ DAGWorks Inc."",
-  ""Location"": ""San Francisco, California, United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
-      ""Company"": ""Stitch Fix"",
-      ""Start Date"": ""Jun 2016"",
-      ""End Date"": ""Jun 2022""
-    },
-    {
-      ""Title"": ""Advisor"",
-      ""Company"": ""SellHound"",
-      ""Start Date"": ""Oct 2018"",
-      ""End Date"": ""Oct 2020""
-    },
-    {
-      ""Title"": ""Senior Data Science Engineer"",
-      ""Company"": ""Idibon"",
-      ""Start Date"": ""Jul 2015"",
-      ""End Date"": ""May 2016""
-    },
-    {
-      ""Title"": ""Senior Software Engineer"",
-      ""Company"": ""Nextdoor.com"",
-      ""Start Date"": ""Dec 2012"",
-      ""End Date"": ""Jul 2015""
-    }
-  ],
-  ""Education"": [
-    {
-      ""Degree"": ""Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research"",
-      ""Field"": ""Computer Science"",
-      ""Institution"": ""Stanford University"",
-      ""Years"": ""2008 - 2010""
-    },
-    {
-      ""Degree"": ""W23"",
-      ""Field"": null,
-      ""Institution"": ""Y Combinator"",
-      ""Years"": ""Jan 2023 - Apr 2023""
-    }
-  ],
-  ""Top Skills"": [
-    ""MLOps"",
-    ""Python"",
-    ""A/B Testing"",
-    ""Data Platforms"",
-    ""Machine Learning""
-  ]
-}
-",True,3.2265572547912598
-data/skLI.txt,7,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
   ""Location"": ""San Francisco, California, United States"",
@@ -1113,7 +1236,60 @@ data/skLI.txt,7,"{
     ""Data Science""
   ]
 }
-",True,3.1989941596984863
+",True,4.003667593002319
+data/skLI.txt,7,"{
+  ""Name"": ""Stefan Krawczyk"",
+  ""Current Role"": ""CEO @ DAGWorks Inc."",
+  ""Location"": ""San Francisco, California, United States"",
+  ""Previous Roles"": [
+    {
+      ""Title"": ""Data Platform - Mgr. Model Lifecycle"",
+      ""Company"": ""Stitch Fix"",
+      ""Start Date"": ""Jun 2016"",
+      ""End Date"": ""Jun 2022""
+    },
+    {
+      ""Title"": ""Advisor"",
+      ""Company"": ""SellHound"",
+      ""Start Date"": ""Oct 2018"",
+      ""End Date"": ""Oct 2020""
+    },
+    {
+      ""Title"": ""Senior Data Science Engineer"",
+      ""Company"": ""Idibon"",
+      ""Start Date"": ""Jul 2015"",
+      ""End Date"": ""May 2016""
+    },
+    {
+      ""Title"": ""Senior Software Engineer"",
+      ""Company"": ""Nextdoor.com"",
+      ""Start Date"": ""Dec 2012"",
+      ""End Date"": ""Jul 2015""
+    }
+  ],
+  ""Education"": [
+    {
+      ""Degree"": ""Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""Stanford University"",
+      ""Years"": ""2008 - 2010""
+    },
+    {
+      ""Degree"": ""W23"",
+      ""Field"": null,
+      ""Institution"": ""Y Combinator"",
+      ""Years"": ""Jan 2023 - Apr 2023""
+    }
+  ],
+  ""Top Skills"": [
+    ""MLOps"",
+    ""Python"",
+    ""A/B Testing"",
+    ""Data Platforms"",
+    ""Machine Learning""
+  ]
+}
+",True,12.111800193786621
 data/skLI.txt,8,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
@@ -1160,13 +1336,13 @@ data/skLI.txt,8,"{
   ],
   ""Top Skills"": [
     ""MLOps"",
-    ""Extract, Transform, Load (ETL)"",
     ""A/B Testing"",
+    ""Extract, Transform, Load (ETL)"",
     ""Python"",
     ""Data Science""
   ]
 }
-",True,3.3370752334594727
+",True,3.666877508163452
 data/skLI.txt,9,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
@@ -1205,7 +1381,7 @@ data/skLI.txt,9,"{
       ""Years"": ""2008 - 2010""
     },
     {
-      ""Degree"": ""W23"",
+      ""Degree"": null,
       ""Field"": null,
       ""Institution"": ""Y Combinator"",
       ""Years"": ""Jan 2023 - Apr 2023""
@@ -1213,13 +1389,13 @@ data/skLI.txt,9,"{
   ],
   ""Top Skills"": [
     ""MLOps"",
-    ""A/B Testing"",
-    ""Extract, Transform, Load (ETL)"",
     ""Python"",
-    ""Software Development Life Cycle (SDLC)""
+    ""Data Platforms"",
+    ""A/B Testing"",
+    ""ETL""
   ]
 }
-",True,3.3013358116149902
+",True,3.5194592475891113
 data/skLI.txt,10,"{
   ""Name"": ""Stefan Krawczyk"",
   ""Current Role"": ""CEO @ DAGWorks Inc."",
@@ -1258,7 +1434,7 @@ data/skLI.txt,10,"{
       ""Years"": ""2008 - 2010""
     },
     {
-      ""Degree"": ""W23"",
+      ""Degree"": null,
       ""Field"": null,
       ""Institution"": ""Y Combinator"",
       ""Years"": ""Jan 2023 - Apr 2023""
@@ -1266,523 +1442,353 @@ data/skLI.txt,10,"{
   ],
   ""Top Skills"": [
     ""MLOps"",
-    ""Python"",
     ""A/B Testing"",
-    ""Data Platforms"",
+    ""Extract, Transform, Load (ETL)"",
+    ""Python"",
+    ""Data Science""
+  ]
+}
+",True,4.741321802139282
+data/anLI.txt,1,"{
+  ""Name"": ""Andrew Ng"",
+  ""Current Role"": [
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
+  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
+  ""Education"": [
+    {
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
+    },
+    {
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
+    }
+  ],
+  ""Top Skills"": [
+    ""Education"",
+    ""Educational Technology"",
+    ""AI"",
+    ""Deep Learning"",
     ""Machine Learning""
   ]
 }
-",True,3.213157892227173
-data/hhLI.txt,1,"{
-  ""Name"": ""Hamel Husain"",
+",True,3.4357523918151855
+data/anLI.txt,2,"{
+  ""Name"": ""Andrew Ng"",
   ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
   ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
   ""Education"": [
     {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
     },
     {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
     }
   ],
   ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
+    ""Education"",
+    ""Educational Technology"",
     ""AI"",
-    ""Data Science""
+    ""Deep Learning"",
+    ""Machine Learning""
   ]
 }
-",True,2.835344076156616
-data/hhLI.txt,2,"{
-  ""Name"": ""Hamel Husain"",
+",True,2.4258944988250732
+data/anLI.txt,3,"{
+  ""Name"": ""Andrew Ng"",
   ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
   ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
   ""Education"": [
     {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
     },
     {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
     }
   ],
   ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
+    ""Education"",
+    ""Educational Technology"",
     ""AI"",
-    ""Data Science""
+    ""Deep Learning"",
+    ""Machine Learning""
   ]
 }
-",True,2.7599780559539795
-data/hhLI.txt,3,"{
-  ""Name"": ""Hamel Husain"",
+",True,2.8070621490478516
+data/anLI.txt,4,"{
+  ""Name"": ""Andrew Ng"",
   ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
   ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
   ""Education"": [
     {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
     },
     {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
     }
   ],
   ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
+    ""Education"",
+    ""Educational Technology"",
     ""AI"",
-    ""Data Science""
+    ""Deep Learning"",
+    ""Machine Learning""
   ]
 }
-",True,2.8776867389678955
-data/hhLI.txt,4,"{
-  ""Name"": ""Hamel Husain"",
+",True,2.3948118686676025
+data/anLI.txt,5,"{
+  ""Name"": ""Andrew Ng"",
   ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
   ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
   ""Education"": [
     {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
     },
     {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
     }
   ],
   ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
+    ""Education"",
+    ""Educational Technology"",
     ""AI"",
-    ""Data Science""
+    ""Deep Learning"",
+    ""Machine Learning""
   ]
 }
-",True,2.80086612701416
-data/hhLI.txt,5,"{
-  ""Name"": ""Hamel Husain"",
+",True,2.2213072776794434
+data/anLI.txt,6,"{
+  ""Name"": ""Andrew Ng"",
   ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
   ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
   ""Education"": [
     {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
     },
     {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
     }
   ],
   ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
+    ""Education"",
+    ""Educational Technology"",
     ""AI"",
-    ""Data Science""
+    ""Deep Learning"",
+    ""Machine Learning""
   ]
 }
-",True,2.718247890472412
-data/hhLI.txt,6,"{
-  ""Name"": ""Hamel Husain"",
+",True,2.5460045337677
+data/anLI.txt,7,"{
+  ""Name"": ""Andrew Ng"",
   ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
   ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
   ""Education"": [
     {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
     },
     {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
     }
   ],
   ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
+    ""Education"",
+    ""Educational Technology"",
     ""AI"",
-    ""Data Science""
+    ""Deep Learning"",
+    ""Machine Learning""
   ]
 }
-",True,2.7966787815093994
-data/hhLI.txt,7,"{
-  ""Name"": ""Hamel Husain"",
+",True,2.7301526069641113
+data/anLI.txt,8,"{
+  ""Name"": ""Andrew Ng"",
   ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
   ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
   ""Education"": [
     {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
     },
     {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
     }
   ],
   ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
+    ""Education"",
+    ""Educational Technology"",
     ""AI"",
-    ""Data Science""
+    ""Deep Learning"",
+    ""Machine Learning""
   ]
 }
-",True,2.753308057785034
-data/hhLI.txt,8,"{
-  ""Name"": ""Hamel Husain"",
+",True,2.7297191619873047
+data/anLI.txt,9,"{
+  ""Name"": ""Andrew Ng"",
   ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
   ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
   ""Education"": [
     {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
     },
     {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
     }
   ],
   ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
+    ""Education"",
+    ""Educational Technology"",
     ""AI"",
-    ""Data Science""
+    ""Deep Learning"",
+    ""Machine Learning""
   ]
 }
-",True,2.7950279712677
-data/hhLI.txt,9,"{
-  ""Name"": ""Hamel Husain"",
+",True,2.2231285572052
+data/anLI.txt,10,"{
+  ""Name"": ""Andrew Ng"",
   ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
+    ""Founder @ DeepLearning.AI"",
+    ""Managing General Partner @ AI Fund"",
+    ""Executive Chairman (previously CEO) @ LandingAI"",
+    ""Co-Founder and Chairman @ Coursera"",
+    ""Adjunct Professor of Computer Science @ Stanford University""
   ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
+  ""Location"": ""Palo Alto, California, United States"",
+  ""Previous Roles"": [],
   ""Education"": [
     {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
+      ""Degree"": ""Doctor of Philosophy - PhD"",
+      ""Field"": ""Computer Science"",
+      ""Institution"": ""University of California, Berkeley"",
+      ""Years"": ""2003""
     },
     {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
+      ""Degree"": ""Master of Science - MS"",
+      ""Field"": ""Electrical Engineering and Computer Science"",
+      ""Institution"": ""Massachusetts Institute of Technology"",
+      ""Years"": ""1998""
     }
   ],
   ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
+    ""Education"",
+    ""Educational Technology"",
     ""AI"",
-    ""Data Science""
+    ""Deep Learning"",
+    ""Machine Learning""
   ]
 }
-",True,2.740128993988037
-data/hhLI.txt,10,"{
-  ""Name"": ""Hamel Husain"",
-  ""Current Role"": [
-    ""Independent Consultant @ Parlance Labs"",
-    ""R&D @ AnswerAI"",
-    ""Scout @ Bain Capital""
-  ],
-  ""Location"": ""United States"",
-  ""Previous Roles"": [
-    {
-      ""Title"": ""Entrepreneur in Residence"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Aug 2022"",
-      ""End Date"": ""May 2023""
-    },
-    {
-      ""Title"": ""Core Contributor & Maintainer"",
-      ""Company"": ""fast.ai"",
-      ""Start Date"": ""Sep 2019"",
-      ""End Date"": ""Aug 2022""
-    },
-    {
-      ""Title"": ""Head of ML & Data Science"",
-      ""Company"": ""Outerbounds"",
-      ""Start Date"": ""Jan 2022"",
-      ""End Date"": ""Aug 2022""
-    }
-  ],
-  ""Education"": [
-    {
-      ""Degree"": ""Master of Science (M.S.), Computer Science, Machine Learning"",
-      ""Field"": ""Computer Science, Machine Learning"",
-      ""Institution"": ""Georgia Institute of Technology"",
-      ""Years"": null
-    },
-    {
-      ""Degree"": ""Doctor of Law (J.D.), Cum Laude"",
-      ""Field"": null,
-      ""Institution"": ""University of Michigan"",
-      ""Years"": null
-    }
-  ],
-  ""Top Skills"": [
-    ""Analytics"",
-    ""Predictive Modeling"",
-    ""Machine Learning"",
-    ""AI"",
-    ""Data Science""
-  ]
-}
-",True,2.8757150173187256
+",True,2.251004457473755
 data/hbaLI.txt,1,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -1843,7 +1849,7 @@ data/hbaLI.txt,1,"{
     ""Data Analysis""
   ]
 }
-",True,3.6305668354034424
+",True,4.172741413116455
 data/hbaLI.txt,2,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -1904,7 +1910,7 @@ data/hbaLI.txt,2,"{
     ""Data Analysis""
   ]
 }
-",True,3.4077372550964355
+",True,3.886787176132202
 data/hbaLI.txt,3,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -1965,7 +1971,7 @@ data/hbaLI.txt,3,"{
     ""Data Analysis""
   ]
 }
-",True,3.414170742034912
+",True,5.575164794921875
 data/hbaLI.txt,4,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -2026,7 +2032,7 @@ data/hbaLI.txt,4,"{
     ""Data Analysis""
   ]
 }
-",True,3.5464491844177246
+",True,3.7395105361938477
 data/hbaLI.txt,5,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -2087,7 +2093,7 @@ data/hbaLI.txt,5,"{
     ""Data Analysis""
   ]
 }
-",True,3.5734920501708984
+",True,3.75028133392334
 data/hbaLI.txt,6,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -2148,7 +2154,7 @@ data/hbaLI.txt,6,"{
     ""Data Analysis""
   ]
 }
-",True,3.513015031814575
+",True,4.995507001876831
 data/hbaLI.txt,7,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -2209,7 +2215,7 @@ data/hbaLI.txt,7,"{
     ""Data Analysis""
   ]
 }
-",True,3.609495162963867
+",True,4.036620140075684
 data/hbaLI.txt,8,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -2270,7 +2276,7 @@ data/hbaLI.txt,8,"{
     ""Data Analysis""
   ]
 }
-",True,3.4755430221557617
+",True,3.698204755783081
 data/hbaLI.txt,9,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -2331,7 +2337,7 @@ data/hbaLI.txt,9,"{
     ""Data Analysis""
   ]
 }
-",True,3.515501022338867
+",True,3.9409520626068115
 data/hbaLI.txt,10,"{
   ""Name"": ""Hugo Bowne-Anderson"",
   ""Current Role"": [
@@ -2392,4 +2398,4 @@ data/hbaLI.txt,10,"{
     ""Data Analysis""
   ]
 }
-",True,3.444063901901245
+",True,3.770684242248535

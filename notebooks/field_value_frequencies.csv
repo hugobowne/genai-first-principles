@@ -1,24 +1,24 @@
 File,Field,Value,Frequency
-anLI.txt,Name,Andrew Ng,1
-anLI.txt,Current Role,"['Founder @ DeepLearning.AI', 'Managing General Partner @ AI Fund', 'Executive Chairman (previously CEO) @ Landing AI', 'Co-Founder and Chairman @ Coursera', 'Adjunct Professor of Computer Science @ Stanford University']",1
-anLI.txt,Previous Roles,[],1
-anLI.txt,Top Skills,"['Education', 'Educational Technology']",1
-anLI.txt,Education,"[{'Degree': 'Doctor of Philosophy - PhD', 'Field': 'Computer Science', 'Institution': 'University of California, Berkeley', 'Years': '2003'}, {'Degree': 'Master of Science - MS', 'Field': 'Electrical Engineering and Computer Science', 'Institution': 'Massachusetts Institute of Technology', 'Years': '1998'}]",1
-cwLI.txt,Name,Chris Wiggins,1
+hhLI.txt,Name,Hamel Husain,1
+hhLI.txt,Current Role,"Independent Consultant @ Parlance Labs, Scout @ Bain Capital, R&D @ AnswerAI",1
+hhLI.txt,Previous Roles,"[{'Title': 'Entrepreneur in Residence', 'Company': 'fast.ai', 'Duration': 'Aug 2022 - May 2023'}, {'Title': 'Core Contributor & Maintainer', 'Company': 'fast.ai', 'Duration': 'Sep 2019 - Aug 2022'}, {'Title': 'Head of ML & Data Science', 'Company': 'Outerbounds', 'Duration': 'Jan 2022 - Aug 2022'}]",1
+hhLI.txt,Top Skills,"['Analytics', 'Predictive Modeling', 'Machine Learning', 'AI', 'Data Science']",1
+hhLI.txt,Education,"[{'Degree': 'Master of Science (M.S.), Computer Science, Machine Learning', 'Field': 'Computer Science, Machine Learning', 'Institution': 'Georgia Institute of Technology', 'Years': None}, {'Degree': 'Doctor of Law (J.D.), Cum Laude', 'Field': None, 'Institution': 'University of Michigan', 'Years': None}]",1
+cwLI.txt,Name,chris wiggins,1
 cwLI.txt,Current Role,"['Associate Professor @ Columbia University', 'Chief Data Scientist @ The New York Times', 'cofounder @ hackNY.org', 'Senior Advisor @ Bowery Capital', 'Journal of Machine Learning Research, Action Editors @ JOURNAL OF MACHINE LEARNING RESEARCH INC']",1
 cwLI.txt,Previous Roles,"[{'Title': 'Courant Instructor', 'Company': 'NYU', 'Duration': '1998-2001'}]",1
 cwLI.txt,Top Skills,"['Applied Mathematics', 'Machine Learning']",1
 cwLI.txt,Education,"[{'Degree': 'PhD, Physics', 'Field': 'Physics', 'Institution': 'Princeton University', 'Years': '1993 - 1998'}, {'Degree': 'BA, Physics', 'Field': 'Physics', 'Institution': 'Columbia University', 'Years': '1989 - 1993'}]",1
 skLI.txt,Name,Stefan Krawczyk,1
 skLI.txt,Current Role,CEO @ DAGWorks Inc.,1
-skLI.txt,Previous Roles,"[{'Title': 'Data Platform - Mgr. Model Lifecycle', 'Company': 'Stitch Fix', 'Start Date': 'Jun 2016', 'End Date': 'Jun 2022'}, {'Title': 'Advisor', 'Company': 'SellHound', 'Start Date': 'Oct 2018', 'End Date': 'Oct 2020'}, {'Title': 'Senior Data Science Engineer', 'Company': 'Idibon', 'Start Date': 'Jul 2015', 'End Date': 'May 2016'}, {'Title': 'Senior Software Engineer', 'Company': 'Nextdoor.com', 'Start Date': 'Dec 2012', 'End Date': 'Jul 2015'}]",1
-skLI.txt,Top Skills,"['MLOps', 'A/B Testing', 'Extract, Transform, Load (ETL)', 'Python', 'Data Science']",1
+skLI.txt,Previous Roles,"[{'Title': 'Data Platform - Mgr. Model Lifecycle', 'Company': 'Stitch Fix', 'Duration': 'Jun 2016 - Jun 2022'}, {'Title': 'Advisor', 'Company': 'SellHound', 'Duration': 'Oct 2018 - Oct 2020'}, {'Title': 'Senior Data Science Engineer', 'Company': 'Idibon', 'Duration': 'Jul 2015 - May 2016'}, {'Title': 'Senior Software Engineer', 'Company': 'Nextdoor.com', 'Duration': 'Dec 2012 - Jul 2015'}]",1
+skLI.txt,Top Skills,"['MLOps', 'Extract, Transform, Load (ETL)', 'A/B Testing', 'Python', 'Data Science']",1
 skLI.txt,Education,"[{'Degree': 'Master of Science, Computer Science - specializing in Artificial Intelligence - with Distinction in Research', 'Field': 'Computer Science', 'Institution': 'Stanford University', 'Years': '2008 - 2010'}, {'Degree': None, 'Field': None, 'Institution': 'Y Combinator', 'Years': 'Jan 2023 - Apr 2023'}]",1
-hhLI.txt,Name,Hamel Husain,1
-hhLI.txt,Current Role,"['Independent Consultant @ Parlance Labs', 'R&D @ AnswerAI', 'Scout @ Bain Capital']",1
-hhLI.txt,Previous Roles,"[{'Title': 'Entrepreneur in Residence', 'Company': 'fast.ai', 'Duration': 'Aug 2022 - May 2023'}, {'Title': 'Core Contributor & Maintainer', 'Company': 'fast.ai', 'Duration': 'Sep 2019 - Aug 2022'}, {'Title': 'Head of ML & Data Science', 'Company': 'Outerbounds', 'Duration': 'Jan 2022 - Aug 2022'}]",1
-hhLI.txt,Top Skills,"['Analytics', 'Predictive Modeling', 'Machine Learning', 'AI', 'Data Science']",1
-hhLI.txt,Education,"[{'Degree': 'Master of Science (M.S.), Computer Science, Machine Learning', 'Field': 'Computer Science, Machine Learning', 'Institution': 'Georgia Institute of Technology', 'Years': None}, {'Degree': 'Doctor of Law (J.D.), Cum Laude', 'Field': None, 'Institution': 'University of Michigan', 'Years': None}]",1
+anLI.txt,Name,Andrew Ng,1
+anLI.txt,Current Role,"['Founder @ DeepLearning.AI', 'Managing General Partner @ AI Fund', 'Executive Chairman (previously CEO) @ LandingAI', 'Co-Founder and Chairman @ Coursera', 'Adjunct Professor of Computer Science @ Stanford University']",1
+anLI.txt,Previous Roles,[],1
+anLI.txt,Top Skills,"['Education', 'Educational Technology']",1
+anLI.txt,Education,"[{'Degree': 'Doctor of Philosophy - PhD', 'Field': 'Computer Science', 'Institution': 'University of California, Berkeley', 'Years': '2003'}, {'Degree': 'Master of Science - MS', 'Field': 'Electrical Engineering and Computer Science', 'Institution': 'Massachusetts Institute of Technology', 'Years': '1998'}]",1
 hbaLI.txt,Name,Hugo Bowne-Anderson,1
 hbaLI.txt,Current Role,Independent Data and AI Scientist @ Freelance,1
 hbaLI.txt,Previous Roles,"[{'Title': 'Head of Developer Relations', 'Company': 'Outerbounds', 'Duration': 'Feb 2022 - Aug 2024'}, {'Title': 'Head of Data Science Evangelism and Marketing', 'Company': 'Coiled', 'Duration': 'May 2020 - Oct 2021'}, {'Title': 'Data Scientist', 'Company': 'DataCamp', 'Duration': 'Sep 2017 - May 2020'}, {'Title': 'Curriculum Engineer (Python)', 'Company': 'DataCamp', 'Duration': 'Mar 2016 - May 2020'}, {'Title': 'Postdoctoral Associate/Writer', 'Company': 'Yale University', 'Duration': '2013 - Mar 2016'}]",1
