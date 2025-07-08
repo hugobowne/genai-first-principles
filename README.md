@@ -59,10 +59,36 @@ This workshop teaches data and software folk how to build and iterate on generat
    export ANTHROPIC_API_KEY="your-key-here"
    ```
 
+### Option 3: Local Setup with Pixi
+
+1. **Install Pixi**
+   - Follow the directions on https://pixi.sh/
+   - Restart your shell
+
+2. **Create an environment file**
+
+   ```bash
+   touch .env
+   ```
+
+3. **Add your API keys to the `.env` file**
+
+   ```bash
+   # .env
+   export OPENAI_API_KEY="your-key-here"
+   export ANTHROPIC_API_KEY="your-key-here"
+   ```
+
+4. **Install the locked environment and launch Jupyter Lab**
+
+   ```bash
+   pixi run start
+   ```
+
 ## Learning Path
 1. **`01-llm-app-foundations.ipynb`** - Build all 6 apps (CLI → web interface → local models → conversation → logging → feedback) while learning core LLM application concepts
 2. **`02-model-evaluation.ipynb`** - Learn systematic model comparison and selection techniques
 3. **`03-function-calling.ipynb`** - Master structured outputs and API integration patterns
 4. **`04-multi-llm-workflows.ipynb`** - Advanced multi-LLM orchestration and agentic patterns
 
-The apps directory contains the completed versions of what you'll build step-by-step in the first notebook. 
+The apps directory contains the completed versions of what you'll build step-by-step in the first notebook.
