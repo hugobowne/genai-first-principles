@@ -40,4 +40,7 @@ Thumbs.db
 *.log
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints 
+.ipynb_checkpoints
+
+# pixi environments
+.pixi
