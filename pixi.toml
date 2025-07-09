@@ -1,0 +1,37 @@
+[workspace]
+channels = ["conda-forge"]
+name = "genai-first-principles"
+platforms = ["linux-64", "osx-arm64"]
+version = "0.1.0"
+
+[activation]
+# Load API keys into shell environment
+scripts = ["setup.sh"]
+
+[tasks.start]
+description = "Get started"
+cmd = "jupyter lab"
+
+[dependencies]
+datasette = ">=0.65.1,<0.66"
+python-dotenv = ">=1.1.1,<2"
+notebook = ">=7.4.4,<8"
+jupyterlab = ">=4.4.4,<5"
+ipywidgets = ">=8.1.7,<9"
+seaborn = ">=0.13.2,<0.14"
+# llama-index-llms-gemini depend on pillow>=10.2.0,<11.0.0
+pillow = ">=10.2.0,<11"
+groq = ">=0.29.0,<0.30"
+
+[pypi-dependencies]
+llama-index-core = ">=0.12.47, <0.13"
+llama-index-llms-gemini = ">=0.5.0, <0.6"
+llama-index-embeddings-openai = ">=0.3.1, <0.4"
+llama-index-llms-openai = ">=0.4.7, <0.5"
+llama-index-llms-anthropic = ">=0.7.6, <0.8"
+llama-index-llms-ollama = ">=0.6.2, <0.7"
+llama-index-embeddings-huggingface = ">=0.5.5, <0.6"
+openai = ">=1.93.2, <2"
+anthropic = ">=0.57.1, <0.58"
+pymupdf = ">=1.26.3, <2"
+gradio = ">=5.35.0, <6"
