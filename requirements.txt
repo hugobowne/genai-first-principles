@@ -13,6 +13,7 @@ google-genai
 # UI & PDF Handling 
 gradio
 PyMuPDF # fitz
+pypdf
 
 # Data Exploration & Logging 
 datasette

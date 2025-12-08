@@ -33,7 +33,7 @@ def query_pdf(pdf, query):
 with gr.Blocks() as app:
     pdf_upload = gr.File(label="Upload PDF", type="binary")  # Correct type set to "binary"
     query_input = gr.Textbox(label="Ask a question about the PDF")
-    output = gr.Textbox(label="Answer")
+    output = gr.Textbox(label="Answer", lines=15)
     
     query_button = gr.Button("Submit")
     query_button.click(query_pdf, inputs=[pdf_upload, query_input], outputs=output)
