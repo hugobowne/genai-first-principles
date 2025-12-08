@@ -6,8 +6,6 @@ llama-index-llms-google-genai
 llama-index-embeddings-openai
 llama-index-llms-openai
 llama-index-llms-anthropic
-llama-index-embeddings-huggingface
-llama-index-llms-ollama
 openai
 anthropic
 google-genai
@@ -20,7 +18,7 @@ PyMuPDF # fitz
 datasette
 
 # Vector Store
-chromadb
+# chromadb
 
 # Environment & Notebooks
 python-dotenv
