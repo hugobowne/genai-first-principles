@@ -33,3 +33,7 @@ seaborn
 matplotlib
 numpy
 pandas
+
+
+#Websearch
+tavily
