@@ -34,6 +34,8 @@ This workshop teaches data and software folk how to build and iterate on generat
    ```bash
    export OPENAI_API_KEY="your-key-here"
    export ANTHROPIC_API_KEY="your-key-here"
+   export GOOGLE_API_KEY="your-key-here"
+   export TAVILY_API_KEY="your-key-here"
    ```
 
 ### Option 2: Local Setup
@@ -54,15 +56,16 @@ This workshop teaches data and software folk how to build and iterate on generat
    ```
 
 3. **Set Up API Keys**
+   
+   Create a `.env` file from the example:
    ```bash
-   export OPENAI_API_KEY="your-key-here"
-   export ANTHROPIC_API_KEY="your-key-here"
+   cp .env.example .env
    ```
-
-## Learning Path
-1. **`01-llm-app-foundations.ipynb`** - Build all 6 apps (CLI → web interface → local models → conversation → logging → feedback) while learning core LLM application concepts
-2. **`02-model-evaluation.ipynb`** - Learn systematic model comparison and selection techniques
-3. **`03-function-calling.ipynb`** - Master structured outputs and API integration patterns
-4. **`04-multi-llm-workflows.ipynb`** - Advanced multi-LLM orchestration and agentic patterns
-
-The apps directory contains the completed versions of what you'll build step-by-step in the first notebook. 
+   
+   Then open `.env` and add your API keys:
+   ```bash
+   OPENAI_API_KEY="your-key-here"
+   ANTHROPIC_API_KEY="your-key-here"
+   GOOGLE_API_KEY="your-key-here"
+   TAVILY_API_KEY="your-key-here"
+   ```
