@@ -31,7 +31,7 @@ def extract_text_gemini(pdf_path: Path) -> str:
     return response.text
 
 if __name__ == "__main__":
-    pdf_path = Path("data/BIT-AI-2025-summary.pdf")
+    pdf_path = Path("pdfs/BIT-AI-2025-summary.pdf")
     
     if pdf_path.exists():
         text = extract_text_gemini(pdf_path)

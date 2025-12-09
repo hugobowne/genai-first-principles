@@ -6,7 +6,7 @@ load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Load the file content
-with open("data/o1.txt", "r") as f:
+with open("data/hba.txt", "r") as f:
     document_text = f.read()
 
 # Create the prompt with context
@@ -16,7 +16,7 @@ Context information is below.
 {document_text}
 ---------------------
 Given the context information and not prior knowledge, answer the query.
-Query: what is o1?
+Query: tell me everything about this person.
 Answer:
 """
 

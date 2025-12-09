@@ -11,7 +11,7 @@ embed_model = GoogleGenAIEmbedding(
     embed_batch_size=8)
 
 # Load documents and build the vector index
-documents = SimpleDirectoryReader("data").load_data()
+documents = SimpleDirectoryReader("data/").load_data()
 index = VectorStoreIndex.from_documents(documents, embed_model=embed_model)
 
 # Initialize the Gemini LLM
