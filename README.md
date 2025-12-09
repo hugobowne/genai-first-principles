@@ -67,10 +67,10 @@ The workshop is divided into 4 hands-on notebooks, guiding you from basic querie
    
    Then open `.env` and add your API keys:
    ```bash
-   OPENAI_API_KEY="your-key-here"
-   ANTHROPIC_API_KEY="your-key-here"
-   GOOGLE_API_KEY="your-key-here"
-   TAVILY_API_KEY="your-key-here"
+   export OPENAI_API_KEY="your-key-here"
+   export ANTHROPIC_API_KEY="your-key-here"
+   export GOOGLE_API_KEY="your-key-here"
+   export TAVILY_API_KEY="your-key-here"
    ```
 
 ### Option 2: Local Setup
@@ -99,10 +99,10 @@ The workshop is divided into 4 hands-on notebooks, guiding you from basic querie
    
    Then open `.env` and add your API keys:
    ```bash
-   OPENAI_API_KEY="your-key-here"
-   ANTHROPIC_API_KEY="your-key-here"
-   GOOGLE_API_KEY="your-key-here"
-   TAVILY_API_KEY="your-key-here"
+   export OPENAI_API_KEY="your-key-here"
+   export ANTHROPIC_API_KEY="your-key-here"
+   export GOOGLE_API_KEY="your-key-here"
+   export TAVILY_API_KEY="your-key-here"
    ```
 
 ---
